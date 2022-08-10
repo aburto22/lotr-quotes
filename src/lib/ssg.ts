@@ -6,7 +6,7 @@ export const getCharacters = async () =>
   characters.map((c) => ({
     _id: c._id,
     name: c.name,
-    gender: c.gender || null,
+    gender: c.gender || "",
     race: c.race,
   }));
 
