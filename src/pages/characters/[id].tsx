@@ -7,11 +7,13 @@ import type { ParsedUrlQuery } from "querystring";
 import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import Image from "next/image";
+import Link from "next/link";
 import { getCharacterById, getCharactersId, getWikiImg } from "@lib/ssg";
 import type { Character } from "@lib/ssg";
 import { NextPageWithLayout } from "@types";
 import CharacterProperty from "@components/CharacterProperty";
 import { useRouter } from "next/router";
+import { parseForQuery } from "@lib/misc";
 
 type ReturnTypeStaticProps = {
   character: Character & {
@@ -160,6 +162,12 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
       <CharacterProperty label="Realm" prop={character.realm} />
       <CharacterProperty label="Hair" prop={character.hair} />
       <CharacterProperty label="Height" prop={character.height} />
+      <Link
+        href={`/quotes?character=${parseForQuery(character.name)}`}
+        passHref
+      >
+        <a href="dummy">See quotes</a>
+      </Link>
       {character.wikiUrl && <a href={character.wikiUrl}>Visit wikipedia</a>}
       <button onClick={handleClick} type="button">
         Go back...

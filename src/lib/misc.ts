@@ -50,3 +50,6 @@ export const filterByCharacterName =
       e.characterName.toLowerCase().includes(characterNameFormatted)
     );
   };
+
+export const parseForQuery = (str: string): string =>
+  str.replace(/ /g, "+").toLowerCase();
