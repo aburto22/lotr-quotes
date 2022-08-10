@@ -26,3 +26,15 @@ export interface IQuote {
   id: string;
   characterName: string;
 }
+
+export enum Races {
+  Human = "human",
+  Elf = "elf",
+  Hobbit = "hobbit",
+  "Half-elven" = "half-elven",
+  Dwarf = "dwarf",
+  "Orc / Goblin" = "orc",
+  Dragon = "dragon",
+  Eagle = "eagle",
+  Spider = "spider",
+}

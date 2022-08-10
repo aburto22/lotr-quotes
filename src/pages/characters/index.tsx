@@ -1,11 +1,12 @@
 import CharacterCard from "@components/CharacterCard";
+import { useRouter } from "next/router";
 import type { GetStaticProps, InferGetStaticPropsType } from "next";
 import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import { pipe, filterByName, filterByRace } from "@lib/misc";
 import { getCharacters } from "@lib/ssg";
-import { NextPageWithLayout } from "@types";
-import { useState } from "react";
+import { NextPageWithLayout, Races } from "@types";
+import { useState, useEffect } from "react";
 
 type ReturnTypeStaticProps = {
   characters: Awaited<ReturnType<typeof getCharacters>>;
@@ -28,8 +29,24 @@ type CharacterPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
   characters,
 }) => {
+  const {
+    query: { name: nameQuery, race: raceQuery },
+  } = useRouter();
+
   const [name, setName] = useState("");
   const [race, setRace] = useState("");
+
+  useEffect(() => {
+    if (typeof nameQuery === "string") {
+      setName(nameQuery);
+    }
+    if (
+      typeof raceQuery === "string" &&
+      Object.values(Races).includes(raceQuery)
+    ) {
+      setRace(raceQuery);
+    }
+  }, [nameQuery, raceQuery]);
 
   const filteredCharacters = pipe(
     characters,
@@ -117,15 +134,11 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
             className="characters-main__input"
           >
             <option value="">All</option>
-            <option value="human">Human</option>
-            <option value="elf">Elf</option>
-            <option value="hobbit">Hobbit</option>
-            <option value="half-elven">Half-elven</option>
-            <option value="dwarf">Dwarf</option>
-            <option value="orc">Goblin / Orc</option>
-            <option value="dragon">Dragon</option>
-            <option value="eagle">Eagle</option>
-            <option value="spider">Spider</option>
+            {Object.entries(Races).map(([n, r]) => (
+              <option key={n} value={r}>
+                {n}
+              </option>
+            ))}
           </select>
         </label>
       </section>
