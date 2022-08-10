@@ -4,7 +4,7 @@ import { colors } from "@styles/cssVariables";
 import { ICharacter } from "@types";
 
 interface CharacterCardProps {
-  character: Partial<ICharacter> & Pick<ICharacter, "_id" | "name">;
+  character: Pick<ICharacter, "_id" | "name"> & Partial<ICharacter>;
 }
 
 const CharacterCard = ({ character }: CharacterCardProps) => (
