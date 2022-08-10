@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import React from "react";
 
-export type NextPageWithLayout = NextPage & {
+export type NextPageWithLayout<P = {}, IP = P> = NextPage<P, IP> & {
   getLayout?: (page: React.ReactElement) => React.ReactNode;
 };
 
@@ -16,7 +16,7 @@ export interface ICharacter {
   hair: string;
   name: string;
   wikiUrl: string;
-  id: string;
+  _id: string;
 }
 
 export interface IQuote {

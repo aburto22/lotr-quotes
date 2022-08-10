@@ -1,17 +1,31 @@
 import CharacterCard from "@components/CharacterCard";
-import { ICharacter } from "@types";
+import type { GetStaticProps, InferGetStaticPropsType } from "next";
 import { colors } from "@styles/cssVariables";
-import useSWR from "swr";
 import Layout from "@components/Layout";
-import { fetcher } from "@lib/fetcher";
+import { getCharacters } from "@lib/ssg";
+import { NextPageWithLayout } from "@types";
 
-const Characters = () => {
-  const { data: characters } = useSWR("/api/characters", fetcher<ICharacter[]>);
+type ReturnTypeStaticProps = {
+  characters: Awaited<ReturnType<typeof getCharacters>>;
+};
 
-  if (!characters) {
-    return null;
-  }
+export const getStaticProps: GetStaticProps<
+  ReturnTypeStaticProps
+> = async () => {
+  const characters = await getCharacters();
 
+  return {
+    props: {
+      characters,
+    },
+  };
+};
+
+type CharacterPageProps = InferGetStaticPropsType<typeof getStaticProps>;
+
+const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
+  characters,
+}) => {
   return (
     <main>
       <style jsx>{`
@@ -48,16 +62,16 @@ const Characters = () => {
 
       <h1>Characters</h1>
       <section className="board">
-        {characters?.map((c) => (
-          <CharacterCard key={c.id} character={c} />
+        {characters.map((c) => (
+          <CharacterCard key={c._id} character={c} />
         ))}
       </section>
     </main>
   );
 };
 
-Characters.getLayout = (page: React.ReactElement) => {
+CharactersPage.getLayout = (page: React.ReactElement) => {
   return <Layout>{page}</Layout>;
 };
 
-export default Characters;
+export default CharactersPage;
