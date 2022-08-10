@@ -2,6 +2,7 @@ import axios from "axios";
 import fs from "fs/promises";
 import dotenv from "dotenv";
 import path from "path";
+import characters from "../data/characters.json";
 
 dotenv.config();
 
@@ -12,7 +13,16 @@ axios({
     Authorization: `Bearer ${process.env.LOTR_KEY}`,
   },
 }).then(async (res) => {
-  const quotes = res.data.docs;
+  let quotes = res.data.docs;
+
+  if (!characters) {
+    throw new Error("You should first fetch characters");
+  }
+
+  quotes = quotes.map((q: any) => ({
+    ...q,
+    characterName: characters.find((c) => c._id === q.character)?.name,
+  }));
 
   try {
     const dirpath = path.join(__dirname, "..", "data");
@@ -21,6 +31,7 @@ axios({
     if (err?.code === "EEXIST") {
       return;
     }
+
     console.error(err);
   } finally {
     const fileName = path.join(__dirname, "..", "data", "quotes.json");

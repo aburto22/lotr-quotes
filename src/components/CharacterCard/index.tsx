@@ -8,9 +8,9 @@ interface CharacterCardProps {
 }
 
 const CharacterCard = ({ character }: CharacterCardProps) => (
-  <div>
+  <article>
     <style jsx>{`
-      div {
+      article {
         padding: 1rem;
         margin: 0.5rem;
         transition: transform 0.2s;
@@ -55,7 +55,7 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
       }
 
       @media screen and (min-width: 30rem) {
-        div {
+        article {
           width: 12rem;
         }
       }
@@ -69,7 +69,7 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
     <Link href={`/characters/${character._id}`} passHref>
       <a href="dummy">more...</a>
     </Link>
-  </div>
+  </article>
 );
 
 export default CharacterCard;

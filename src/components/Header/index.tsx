@@ -67,9 +67,6 @@ const Header = () => (
       <Link href="/quotes" passHref>
         <a href="dummy">Quotes</a>
       </Link>
-      <Link href="/favourites" passHref>
-        <a href="dummy">Favourites</a>
-      </Link>
     </nav>
   </header>
 );
