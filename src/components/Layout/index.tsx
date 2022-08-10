@@ -17,15 +17,16 @@ const Layout = ({ children }: LayoutProps) => {
     <>
       <style jsx global>{`
         body {
-          background: url("/imgs/general_bg.jpeg");
-          background-position: center;
-          background-size: cover;
-          background-attachment: fixed;
+          background-color: black;
         }
 
         #__next {
           transition: opacity 1000ms;
           opacity: ${isMounted ? 1 : 0};
+          background: url("/imgs/general_bg_transparent.png");
+          background-position: center;
+          background-size: cover;
+          background-attachment: fixed;
         }
       `}</style>
 

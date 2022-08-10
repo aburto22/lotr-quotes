@@ -20,7 +20,7 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
         overflow-wrap: break-word;
       }
 
-      div:hover {
+      article:hover {
         transform: scale(1.1);
         opacity: 1;
       }
