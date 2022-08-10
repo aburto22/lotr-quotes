@@ -1,51 +1,60 @@
+import Head from "next/head";
 import type { AppProps } from "next/app";
+import { NextPageWithLayout } from "@types";
 
-function MyApp({ Component, pageProps }: AppProps) {
+type AppPropsWithLayout = AppProps & {
+  Component: NextPageWithLayout;
+};
+
+function MyApp({ Component, pageProps }: AppPropsWithLayout) {
+  const getLayout = Component.getLayout || ((page) => page);
+
   return (
     <>
+      <Head>
+        <title>LOTR Quotes</title>
+        <meta name="description" content="Get the best quotes from LOTR" />
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+
       <style jsx global>{`
         @font-face {
-          @font-face {
-            font-family: "Morris Roman";
-            src: url(/public/fonts/morris_roman.ttf);
-          }
+          font-family: "Morris Roman";
+          src: url(/fonts/morris_roman.ttf);
+        }
 
-          @font-face {
-            font-family: Anirom;
-            src: url(/public/fonts/anirom.ttf);
-          }
+        @font-face {
+          font-family: Anirom;
+          src: url(/fonts/anirom.ttf);
+        }
 
-          @font-face {
-            font-family: Anirom;
-            src: url(/public/fonts/anirom.ttf);
-            font-weight: bold;
-          }
+        @font-face {
+          font-family: Anirom;
+          src: url(/fonts/anirom.ttf);
+          font-weight: bold;
+        }
 
-          * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-          }
+        * {
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+        }
 
-          body {
-            font-family: Anirom, sans-serif;
-            background: url("/public/imgs/general_bg_transparent.png");
-            background-position: center;
-            background-size: cover;
-            background-color: black;
-            background-attachment: fixed;
-            color: white;
-          }
+        body {
+          font-family: Anirom, sans-serif;
+          background-color: black;
+          color: white;
+        }
 
-          #root {
-            min-height: 100vh;
-            display: flex;
-            flex-direction: column;
-            justify-content: flex-start;
-          }
+        #__next {
+          min-height: 100vh;
+          display: flex;
+          flex-direction: column;
+          justify-content: flex-start;
         }
       `}</style>
-      <Component {...pageProps} />
+
+      {getLayout(<Component {...pageProps} />)}
     </>
   );
 }
