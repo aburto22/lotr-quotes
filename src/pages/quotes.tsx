@@ -4,6 +4,10 @@ import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import { getQuotes } from "@lib/ssg";
 import { NextPageWithLayout } from "@types";
+import { useState } from "react";
+import { useRouter } from "next/router";
+import { useEffect } from "react";
+import { filterByCharacterName, filterByDialog, pipe } from "@lib/misc";
 
 type ReturnTypeStaticProps = {
   quotes: Awaited<ReturnType<typeof getQuotes>>;
@@ -24,6 +28,27 @@ export const getStaticProps: GetStaticProps<
 type QuotesPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 
 const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
+  const {
+    query: { dialog: dialogQuery, character: characterQuery },
+  } = useRouter();
+  const [dialog, setDialog] = useState("");
+  const [character, setCharacter] = useState("");
+
+  useEffect(() => {
+    if (typeof dialogQuery === "string") {
+      setDialog(dialogQuery);
+    }
+    if (typeof characterQuery === "string") {
+      setCharacter(characterQuery);
+    }
+  }, [dialogQuery, characterQuery]);
+
+  const filteredQuotes = pipe(
+    quotes,
+    filterByDialog(dialog),
+    filterByCharacterName(character)
+  );
+
   return (
     <main>
       <style jsx>{`
@@ -44,6 +69,27 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
           font-size: 3rem;
         }
 
+        section.form {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          margin: 0 auto 2rem;
+          width: max-content;
+        }
+
+        label {
+          margin: 0.5rem;
+          display: flex;
+          align-items: center;
+          width: max-content;
+        }
+
+        input {
+          margin-left: 0.5rem;
+          display: block;
+          padding: 0.2rem 0.4rem;
+        }
+
         section.board {
           display: flex;
           flex-wrap: wrap;
@@ -51,11 +97,37 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
           align-items: center;
           max-width: 100%;
         }
+
+        @media screen and (min-width: 30rem) {
+          section.form {
+            flex-direction: row;
+          }
+        }
       `}</style>
       <h1>Quotes</h1>
+      <section className="form">
+        <label htmlFor="dialog">
+          Dialog:
+          <input
+            type="text"
+            value={dialog}
+            onChange={(e) => setDialog(e.target.value)}
+            name="dialog"
+          />
+        </label>
+        <label htmlFor="character">
+          Character:
+          <input
+            type="text"
+            value={character}
+            onChange={(e) => setCharacter(e.target.value)}
+            name="character"
+          />
+        </label>
+      </section>
       <section className="board">
-        {quotes.length > 0 ? (
-          quotes.map((q) => <QuoteCard key={q.id} quote={q} />)
+        {filteredQuotes.length > 0 ? (
+          filteredQuotes.map((q) => <QuoteCard key={q.id} quote={q} />)
         ) : (
           <h2>No quotes found</h2>
         )}

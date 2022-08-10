@@ -42,7 +42,7 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
     }
     if (
       typeof raceQuery === "string" &&
-      Object.values(Races).includes(raceQuery)
+      Object.values<string>(Races).includes(raceQuery)
     ) {
       setRace(raceQuery);
     }
@@ -117,7 +117,7 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
       <h1>Characters</h1>
 
       <section className="form">
-        <label htmlFor="name" className="delayed-input__label">
+        <label htmlFor="name">
           Name:
           <input
             type="text"
@@ -128,11 +128,7 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
         </label>
         <label htmlFor="race">
           Race:
-          <select
-            value={race}
-            onChange={(e) => setRace(e.target.value)}
-            className="characters-main__input"
-          >
+          <select value={race} onChange={(e) => setRace(e.target.value)}>
             <option value="">All</option>
             {Object.entries(Races).map(([n, r]) => (
               <option key={n} value={r}>
