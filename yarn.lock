@@ -1660,6 +1660,11 @@ styled-jsx@5.0.2:
   resolved "https://registry.yarnpkg.com/styled-jsx/-/styled-jsx-5.0.2.tgz#ff230fd593b737e9e68b630a694d460425478729"
   integrity sha512-LqPQrbBh3egD57NBcHET4qcgshPks+yblyhPlH2GY8oaDgKs8SK4C3dBh3oSJjgzJ3G5t1SYEZGHkP+QEpX9EQ==
 
+styled-jsx@^5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/styled-jsx/-/styled-jsx-5.0.3.tgz#6c2efb14865ee3db64ffdf8994ae56275435a936"
+  integrity sha512-v82oihjxFj2WJtQiodZIDjJpnmVcE71HTCVylxdcQHU0ocnI0rGhJ0+5A3311NMQUx0KFJ+18RSHNlfIgcSU8g==
+
 supports-color@^7.1.0:
   version "7.2.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"
