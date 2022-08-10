@@ -7,11 +7,6 @@ const Home: NextPageWithLayout = () => {
   return (
     <>
       <style jsx>{`
-        main {
-          max-width: 100%;
-          min-height: 100vh;
-        }
-
         section {
           width: 40rem;
           color: white;

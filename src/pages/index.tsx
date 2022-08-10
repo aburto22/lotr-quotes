@@ -11,6 +11,7 @@ const Home: NextPage = () => {
 
   const handleClick = (e: React.SyntheticEvent) => {
     e.preventDefault();
+
     setIsClicked(true);
     setTimeout(() => {
       push("/home");

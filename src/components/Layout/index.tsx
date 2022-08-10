@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import Header from "@components/Header";
+import Footer from "@components/Footer";
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -27,7 +29,9 @@ const Layout = ({ children }: LayoutProps) => {
         }
       `}</style>
 
+      <Header />
       {children}
+      <Footer />
     </>
   );
 };
