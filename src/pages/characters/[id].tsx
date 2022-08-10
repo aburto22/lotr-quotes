@@ -6,14 +6,17 @@ import type {
 import type { ParsedUrlQuery } from "querystring";
 import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
-import { getCharacterById, getCharactersId } from "@lib/ssg";
+import Image from "next/image";
+import { getCharacterById, getCharactersId, getWikiImg } from "@lib/ssg";
 import type { Character } from "@lib/ssg";
 import { NextPageWithLayout } from "@types";
 import CharacterProperty from "@components/CharacterProperty";
 import { useRouter } from "next/router";
 
 type ReturnTypeStaticProps = {
-  character: Character;
+  character: Character & {
+    image: string;
+  };
 };
 
 interface Params extends ParsedUrlQuery {
@@ -48,9 +51,14 @@ export const getStaticProps: GetStaticProps<
     };
   }
 
+  const image = await getWikiImg(character.wikiUrl);
+
   return {
     props: {
-      character,
+      character: {
+        ...character,
+        image,
+      },
     },
   };
 };
@@ -97,7 +105,7 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
           display: block;
           text-align: center;
           text-decoration: none;
-          color: var(--lightblue);
+          color: ${colors.lightblue};
           font-size: 0.9rem;
           transition: transform 0.2s;
         }
@@ -106,17 +114,19 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
           transform: scale(1.2);
         }
 
-        image {
-          display: block;
-          margin: 0.5rem auto 1.5rem;
+        div.image-container {
+          position: relative;
+          width: 20rem;
+          height: 20rem;
           max-width: 100%;
+          margin: 1.5rem auto;
         }
 
         button {
           margin-top: 1rem;
           display: block;
           text-align: center;
-          color: var(--lightblue);
+          color: ${colors.lightblue};
           font-size: 0.9rem;
           transition: transform 0.2s;
           background-color: transparent;
@@ -132,13 +142,16 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
       `}</style>
 
       <h1>{character.name}</h1>
-      {/* {image && (
-        <img
-          src={image}
-          className="character-main__image"
-          alt={character.name}
-        />
-      )} */}
+      {character.image && (
+        <div className="image-container">
+          <Image
+            src={character.image}
+            alt={character.name}
+            layout="fill"
+            objectFit="contain"
+          />
+        </div>
+      )}
       <CharacterProperty label="Race" prop={character.race} />
       <CharacterProperty label="Gender" prop={character.gender} />
       <CharacterProperty label="Birth" prop={character.birth} />
