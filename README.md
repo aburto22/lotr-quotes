@@ -1,7 +1,7 @@
 # LOTR Quotes
 
 > Simple app to find Lord of the Rings characters and famous quotes.
-> The app is hosted in heroku [_Click here to take a look._](https://quotes-lotr.herokuapp.com/)
+> The app is hosted in vercel [_Click here to take a look._](https://lotr-quotes.vercel.app/)
 
 ## Table of Contents
 
@@ -31,6 +31,7 @@ Who doesn't love the Lord of the Rings? Who doesn't remember fondly Gollum's 'My
 - TypeScript
 - React
 - Next.JS
+- Redux
 - Styled-JSX
 
 ### Deployment and hosting
@@ -61,14 +62,7 @@ The project is currently finished, although there are several opportunities for 
 
 ## New features and bugs
 
-Known bugs:
-
-- Layout is not fully responsive.
-
-Future features:
-
-- Extensive menu for mobile.
-- Fully-responsive layout.
+There are not known bugs.
 
 ## Authors
 
