@@ -6,10 +6,15 @@ import Layout from "@components/Layout";
 import { pipe, filterByName, filterByRace } from "@lib/misc";
 import { getCharacters } from "@lib/ssg";
 import { NextPageWithLayout, Races } from "@types";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 
 type ReturnTypeStaticProps = {
   characters: Awaited<ReturnType<typeof getCharacters>>;
+};
+
+type QueryParams = {
+  name?: string;
+  race?: string;
 };
 
 export const getStaticProps: GetStaticProps<
@@ -31,7 +36,9 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
 }) => {
   const {
     query: { name: nameQuery, race: raceQuery },
+    replace,
   } = useRouter();
+  const { current: replaceRef } = useRef(replace);
 
   const [name, setName] = useState("");
   const [race, setRace] = useState("");
@@ -48,11 +55,33 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
     }
   }, [nameQuery, raceQuery]);
 
+  useEffect(() => {
+    let query: QueryParams = {};
+
+    if (name) {
+      query.name = name;
+    }
+
+    if (race) {
+      query.race = race;
+    }
+
+    replaceRef("/characters", { query }, { shallow: true });
+  }, [name, race, replaceRef]);
+
   const filteredCharacters = pipe(
     characters,
     filterByName(name),
     filterByRace(race)
   );
+
+  const handleNameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    setName(e.target.value);
+  };
+
+  const handleRaceChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
+    setRace(e.target.value);
+  };
 
   return (
     <main>
@@ -122,13 +151,13 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
           <input
             type="text"
             value={name}
-            onChange={(e) => setName(e.target.value)}
+            onChange={handleNameChange}
             name="name"
           />
         </label>
         <label htmlFor="race">
           Race:
-          <select value={race} onChange={(e) => setRace(e.target.value)}>
+          <select value={race} onChange={handleRaceChange}>
             <option value="">All</option>
             {Object.entries(Races).map(([n, r]) => (
               <option key={n} value={r}>
