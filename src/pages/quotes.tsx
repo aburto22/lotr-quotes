@@ -4,13 +4,18 @@ import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import { getQuotes } from "@lib/ssg";
 import { NextPageWithLayout } from "@types";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
 import { filterByCharacterName, filterByDialog, pipe } from "@lib/misc";
 
 type ReturnTypeStaticProps = {
   quotes: Awaited<ReturnType<typeof getQuotes>>;
+};
+
+type QueryParams = {
+  dialog?: string;
+  character?: string;
 };
 
 export const getStaticProps: GetStaticProps<
@@ -30,7 +35,10 @@ type QuotesPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
   const {
     query: { dialog: dialogQuery, character: characterQuery },
+    replace,
   } = useRouter();
+  const { current: replaceRef } = useRef(replace);
+
   const [dialog, setDialog] = useState("");
   const [character, setCharacter] = useState("");
 
@@ -42,6 +50,20 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
       setCharacter(characterQuery);
     }
   }, [dialogQuery, characterQuery]);
+
+  useEffect(() => {
+    let query: QueryParams = {};
+
+    if (dialog) {
+      query.dialog = dialog;
+    }
+
+    if (character) {
+      query.character = character;
+    }
+
+    replaceRef("/quotes", { query }, { shallow: true });
+  }, [dialog, character, replaceRef]);
 
   const filteredQuotes = pipe(
     quotes,
