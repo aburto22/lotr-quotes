@@ -1,6 +1,9 @@
 import { useEffect, useState } from "react";
 import Header from "@components/Header";
 import Footer from "@components/Footer";
+import { readFromStorage } from "@lib/storage";
+import { useAppDispatch } from "@hooks/redux";
+import { setFavourites } from "@slices/favourites";
 
 interface LayoutProps {
   children: React.ReactNode;
@@ -8,10 +11,13 @@ interface LayoutProps {
 
 const Layout = ({ children }: LayoutProps) => {
   const [isMounted, setIsMounted] = useState(false);
+  const dispatch = useAppDispatch();
 
   useEffect(() => {
     setIsMounted(true);
-  }, []);
+    const favourites = readFromStorage();
+    dispatch(setFavourites(favourites));
+  }, [dispatch]);
 
   return (
     <>

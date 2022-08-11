@@ -15,7 +15,13 @@ export const getCharactersId = async () => characters.map((c) => c._id);
 export const getCharacterById = async (id: string) =>
   characters.find((c) => c._id === id);
 
-export const getQuotes = async () => quotes;
+export const getQuotes = async () =>
+  quotes.map((q) => ({
+    _id: q._id,
+    character: q.character,
+    dialog: q.dialog,
+    characterName: q.characterName,
+  }));
 
 export const getWikiImg = async (url: string | undefined) => {
   if (!url) {

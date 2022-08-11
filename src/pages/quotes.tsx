@@ -187,7 +187,7 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
       </section>
       <section className="board">
         {paginatedQuotes.length > 0 ? (
-          paginatedQuotes.map((q) => <QuoteCard key={q.id} quote={q} />)
+          paginatedQuotes.map((q) => <QuoteCard key={q._id} quote={q} />)
         ) : (
           <h2>No quotes found</h2>
         )}

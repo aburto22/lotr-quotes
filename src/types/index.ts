@@ -21,9 +21,9 @@ export interface ICharacter {
 
 export interface IQuote {
   dialog: string;
-  movie: string;
+  movie?: string;
   character: string;
-  id: string;
+  _id: string;
   characterName: string;
 }
 

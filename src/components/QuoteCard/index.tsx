@@ -12,11 +12,11 @@ interface QuoteCardProps {
 const QuoteCard = ({ quote }: QuoteCardProps) => {
   const dispatch = useAppDispatch();
   const isFavourite = useAppSelector((state) =>
-    state.favourites.includes(quote.id)
+    state.favourites.includes(quote._id)
   );
 
   const handleClick = () => {
-    dispatch(toggleFavourite(quote.id));
+    dispatch(toggleFavourite(quote._id));
   };
 
   return (

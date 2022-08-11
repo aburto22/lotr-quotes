@@ -6,6 +6,7 @@ const favouritesSlice = createSlice({
   name: "favourites",
   initialState,
   reducers: {
+    setFavourites: (state, action: PayloadAction<string[]>) => action.payload,
     toggleFavourite: (state, action: PayloadAction<string>) => {
       if (state.includes(action.payload)) {
         return state.filter((f) => f !== action.payload);
@@ -15,6 +16,6 @@ const favouritesSlice = createSlice({
   },
 });
 
-export const { toggleFavourite } = favouritesSlice.actions;
+export const { toggleFavourite, setFavourites } = favouritesSlice.actions;
 
 export default favouritesSlice.reducer;

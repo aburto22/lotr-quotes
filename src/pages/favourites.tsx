@@ -67,7 +67,7 @@ const FavouritesPage: NextPageWithLayout<FavouritesPageProps> = ({
       <h1>Favourites</h1>
       <section className="board">
         {favouriteQuotes.length > 0 ? (
-          favouriteQuotes.map((q) => <QuoteCard key={q.id} quote={q} />)
+          favouriteQuotes.map((q) => <QuoteCard key={q._id} quote={q} />)
         ) : (
           <h2>Add favourites to see them here</h2>
         )}
