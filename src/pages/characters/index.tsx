@@ -3,10 +3,11 @@ import { useRouter } from "next/router";
 import type { GetStaticProps, InferGetStaticPropsType } from "next";
 import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
-import { pipe, filterByName, filterByRace } from "@lib/misc";
+import { pipe, filterByName, filterByRace, getPageContent } from "@lib/misc";
 import { getCharacters } from "@lib/ssg";
 import { NextPageWithLayout, Races } from "@types";
 import { useState, useEffect, useRef } from "react";
+import Pagination from "@components/Pagination";
 
 type ReturnTypeStaticProps = {
   characters: Awaited<ReturnType<typeof getCharacters>>;
@@ -15,6 +16,7 @@ type ReturnTypeStaticProps = {
 type QueryParams = {
   name?: string;
   race?: string;
+  page?: number;
 };
 
 export const getStaticProps: GetStaticProps<
@@ -35,13 +37,15 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
   characters,
 }) => {
   const {
-    query: { name: nameQuery, race: raceQuery },
+    query: { name: nameQuery, race: raceQuery, page: pageQuery },
     replace,
   } = useRouter();
   const { current: replaceRef } = useRef(replace);
 
   const [name, setName] = useState("");
   const [race, setRace] = useState("");
+  const [page, setPage] = useState(1);
+  const [limit] = useState(10);
 
   useEffect(() => {
     if (typeof nameQuery === "string") {
@@ -53,7 +57,10 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
     ) {
       setRace(raceQuery);
     }
-  }, [nameQuery, raceQuery]);
+    if (typeof pageQuery === "string" && !Number.isNaN(+pageQuery)) {
+      setPage(+pageQuery);
+    }
+  }, [nameQuery, raceQuery, pageQuery]);
 
   useEffect(() => {
     let query: QueryParams = {};
@@ -66,14 +73,20 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
       query.race = race;
     }
 
+    if (page && page > 1) {
+      query.page = page;
+    }
+
     replaceRef("/characters", { query }, { shallow: true });
-  }, [name, race, replaceRef]);
+  }, [name, race, page, replaceRef]);
 
   const filteredCharacters = pipe(
     characters,
     filterByName(name),
     filterByRace(race)
   );
+
+  const paginatedCharacters = getPageContent(page, limit)(filteredCharacters);
 
   const handleNameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setName(e.target.value);
@@ -82,6 +95,8 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
   const handleRaceChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
     setRace(e.target.value);
   };
+
+  const maxPage = Math.ceil(filteredCharacters.length / limit);
 
   return (
     <main>
@@ -168,10 +183,13 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
         </label>
       </section>
       <section className="board">
-        {filteredCharacters.map((c) => (
+        {paginatedCharacters.map((c) => (
           <CharacterCard key={c._id} character={c} />
         ))}
       </section>
+      {filteredCharacters.length > limit && (
+        <Pagination setPage={setPage} page={page} maxPage={maxPage} />
+      )}
     </main>
   );
 };

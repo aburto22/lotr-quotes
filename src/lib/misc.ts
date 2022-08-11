@@ -53,3 +53,11 @@ export const filterByCharacterName =
 
 export const parseForQuery = (str: string): string =>
   str.replace(/ /g, "+").toLowerCase();
+
+export const getPageContent =
+  (page: number, limit: number) =>
+  <T>(array: T[]): T[] => {
+    const lowerLimit = (page - 1) * limit;
+    const upperLimit = lowerLimit + limit;
+    return array.slice(lowerLimit, upperLimit);
+  };
