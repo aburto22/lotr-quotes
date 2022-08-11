@@ -16,7 +16,7 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
         transition: transform 0.2s;
         position: relative;
         opacity: 0.8;
-        width: 9rem;
+        width: 8rem;
         overflow-wrap: break-word;
       }
 
@@ -28,7 +28,7 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
       h2 {
         color: ${colors.yellow};
         text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
-        font-size: 1.1rem;
+        font-size: 0.9rem;
         text-align: center;
       }
 
@@ -55,6 +55,9 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
       }
 
       @media screen and (min-width: 30rem) {
+        h2 {
+          font-size: 1.1rem;
+        }
         article {
           width: 12rem;
         }
