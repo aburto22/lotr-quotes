@@ -18,7 +18,7 @@
 
 ### Context
 
-The idea of the project was conceived during a hackathon at </Salt> bootcamp. Here, I incorporated different technologies we learned during the bootcamp to create a working app in a single day. I have then fixed some bugs and added small features to improve the app.
+The idea of the project was conceived during a hackathon at </Salt> bootcamp. Here, I incorporated different technologies we learned during the bootcamp to create a working app in a single day. After finishing the bootcamp, I updated the project to use more up-to-date technologies.
 
 ### Idea
 
@@ -30,18 +30,12 @@ Who doesn't love the Lord of the Rings? Who doesn't remember fondly Gollum's 'My
 
 - TypeScript
 - React
-- Redux
-
-### Back-end
-
-- Node.JS
-- Express.JS
+- Next.JS
+- Styled-JSX
 
 ### Deployment and hosting
 
-- Docker container
-- Heroku hosting
-- GitHub actions for CI/CD pipeline
+- Vercel hosting
 
 ## Features
 
@@ -59,12 +53,7 @@ So far, I have incorporated the following features:
 
 ## Setup
 
-The project is separated in two parts: client and server. If anybody wants to clone this project, they have to go into the client folder and install dependencies using `npm install`, and then run the development server using `npm start`. To start the server, they have to go into the server folder and install dependencies using `npm install`, and then run the development server using `npm run dev`. A list with all scrips is found in the package.json files included in client and server folders.
-
-There is also a Dockerfile in the root folder to create a container. Below are the commands to build and run a docker container:
-
-- Build: `docker build -t lotr-quotes-image .`
-- Run: `docker run -p 5500:5500 --name lotr-quotes lotr-quotes-image`
+The project is created in Next.JS, so the server runs as serverless functions. If anybody wants to clone this project, they can install dependencies running `yarn`, and then run the development server using `yarn dev`. A list with all scrips is found in the package.json file.
 
 ## Project Status
 
@@ -74,15 +63,12 @@ The project is currently finished, although there are several opportunities for 
 
 Known bugs:
 
-- Character images take too long to load.
-- Text input field in characters and quotes doesn't update when going back in browser.
 - Layout is not fully responsive.
 
 Future features:
 
 - Extensive menu for mobile.
 - Fully-responsive layout.
-- Skeleton for placeholder when images load.
 
 ## Authors
 
