@@ -156,6 +156,11 @@ const Header = () => {
             Quotes
           </a>
         </Link>
+        <Link href="/favourites" passHref>
+          <a href="dummy" onClick={() => setIsShowing(false)}>
+            Favourites
+          </a>
+        </Link>
       </nav>
     </header>
   );

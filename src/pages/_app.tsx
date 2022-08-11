@@ -1,6 +1,8 @@
 import Head from "next/head";
 import type { AppProps } from "next/app";
 import { NextPageWithLayout } from "@types";
+import { Provider } from "react-redux";
+import store from "@store";
 
 type AppPropsWithLayout = AppProps & {
   Component: NextPageWithLayout;
@@ -10,7 +12,7 @@ function MyApp({ Component, pageProps }: AppPropsWithLayout) {
   const getLayout = Component.getLayout || ((page) => page);
 
   return (
-    <>
+    <Provider store={store}>
       <Head>
         <title>LOTR Quotes</title>
         <meta name="description" content="Get the best quotes from LOTR" />
@@ -55,7 +57,7 @@ function MyApp({ Component, pageProps }: AppPropsWithLayout) {
       `}</style>
 
       {getLayout(<Component {...pageProps} />)}
-    </>
+    </Provider>
   );
 }
 
