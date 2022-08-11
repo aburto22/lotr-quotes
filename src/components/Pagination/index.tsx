@@ -1,4 +1,5 @@
 import { colors } from "@styles/cssVariables";
+import { scrollUp } from "@lib/misc";
 
 interface PaginationProps {
   setPage: React.Dispatch<React.SetStateAction<number>>;
@@ -14,6 +15,7 @@ const Pagination = ({ setPage, maxPage, page }: PaginationProps) => {
       }
       return currentPage - 1;
     });
+    scrollUp();
   };
 
   const handleNextPage = () => {
@@ -23,6 +25,7 @@ const Pagination = ({ setPage, maxPage, page }: PaginationProps) => {
       }
       return currentPage + 1;
     });
+    scrollUp();
   };
 
   const prevButtonDisabled = page <= 1;

@@ -61,3 +61,7 @@ export const getPageContent =
     const upperLimit = lowerLimit + limit;
     return array.slice(lowerLimit, upperLimit);
   };
+
+export const scrollUp = () => {
+  window.scrollTo(0, 0);
+};
