@@ -5,9 +5,9 @@ import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import { pipe, filterByName, filterByRace, getPageContent } from "@lib/misc";
 import { getCharacters } from "@lib/ssg";
-import { getQueryParams } from "@lib/query";
+import { getQueryParams, getQueryFromUrl } from "@lib/query";
 import { NextPageWithLayout, Races } from "@types";
-import { useState, useEffect, useRef } from "react";
+import { useEffect, useState } from "react";
 import Pagination from "@components/Pagination";
 
 type ReturnTypeStaticProps = {
@@ -37,39 +37,27 @@ type CharacterPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
   characters,
 }) => {
-  const { query: queryParams, replace } = useRouter();
+  const { replace, asPath } = useRouter();
 
   const [state, setState] = useState<State>({
     name: "",
     race: "",
     page: 1,
   });
-  const [limit] = useState(10);
 
   useEffect(() => {
-    const { name, race, page } = queryParams;
-    if (typeof name === "string") {
-      setState((st) => ({
-        ...st,
-        name,
-      }));
-    }
-    if (
-      typeof race === "string" &&
-      Object.values<string>(Races).includes(race)
-    ) {
-      setState((st) => ({
-        ...st,
-        race,
-      }));
-    }
-    if (typeof page === "string" && !Number.isNaN(+page)) {
-      setState((st) => ({
-        ...st,
-        page: Number(page),
-      }));
-    }
-  }, [queryParams]);
+    const name = getQueryFromUrl(asPath, "name") || "";
+    const race = getQueryFromUrl(asPath, "race") || "";
+    const page = Number(getQueryFromUrl(asPath, "page")) || 1;
+
+    setState({
+      name,
+      race,
+      page: Number.isInteger(page) ? page : 1,
+    });
+  }, [asPath]);
+
+  const [limit] = useState(10);
 
   const filteredCharacters = pipe(
     characters,

@@ -4,7 +4,7 @@ import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import { getQuotes } from "@lib/ssg";
 import { NextPageWithLayout } from "@types";
-import React, { useRef, useState } from "react";
+import React, { useState } from "react";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
 import {
@@ -14,7 +14,7 @@ import {
   getPageContent,
 } from "@lib/misc";
 import Pagination from "@components/Pagination";
-import { getQueryParams } from "@lib/query";
+import { getQueryParams, getQueryFromUrl } from "@lib/query";
 
 type ReturnTypeStaticProps = {
   quotes: Awaited<ReturnType<typeof getQuotes>>;
@@ -41,7 +41,7 @@ type State = {
 type QuotesPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 
 const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
-  const { query: queryParams, replace } = useRouter();
+  const { asPath, replace } = useRouter();
 
   const [state, setState] = useState<State>({
     dialog: "",
@@ -52,27 +52,16 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
   const [limit] = useState(20);
 
   useEffect(() => {
-    const { dialog, character, page } = queryParams;
+    const dialog = getQueryFromUrl(asPath, "dialog") || "";
+    const character = getQueryFromUrl(asPath, "character") || "";
+    const page = Number(getQueryFromUrl(asPath, "page")) || 1;
 
-    if (typeof dialog === "string") {
-      setState((st) => ({
-        ...st,
-        dialog,
-      }));
-    }
-    if (typeof character === "string") {
-      setState((st) => ({
-        ...st,
-        character,
-      }));
-    }
-    if (typeof page === "string" && Number.isInteger(Number(page))) {
-      setState((st) => ({
-        ...st,
-        page: Number(page),
-      }));
-    }
-  }, [queryParams]);
+    setState({
+      dialog,
+      character,
+      page: Number.isInteger(page) ? page : 1,
+    });
+  }, [asPath]);
 
   const handleDialogChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     const newDialog = e.target.value;
