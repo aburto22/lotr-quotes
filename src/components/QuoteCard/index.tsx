@@ -1,13 +1,24 @@
-import React from "react";
 import Link from "next/link";
 import { IQuote } from "@types";
+import { useAppDispatch, useAppSelector } from "@hooks/redux";
+import { toggleFavourite } from "@slices/favourites";
 import { colors } from "@styles/cssVariables";
+import HearthIcon from "@components/HearthIcon";
 
 interface QuoteCardProps {
   quote: IQuote;
 }
 
 const QuoteCard = ({ quote }: QuoteCardProps) => {
+  const dispatch = useAppDispatch();
+  const isFavourite = useAppSelector((state) =>
+    state.favourites.includes(quote.id)
+  );
+
+  const handleClick = () => {
+    dispatch(toggleFavourite(quote.id));
+  };
+
   return (
     <article>
       <style jsx>{`
@@ -60,6 +71,9 @@ const QuoteCard = ({ quote }: QuoteCardProps) => {
           <a href="dummy">character info...</a>
         </Link>
       </div>
+      <button type="button" onClick={handleClick} aria-label="toggle favourite">
+        <HearthIcon isFavourite={isFavourite} />
+      </button>
     </article>
   );
 };
