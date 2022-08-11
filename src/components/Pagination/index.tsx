@@ -1,35 +1,56 @@
+import { useRouter } from "next/router";
 import { colors } from "@styles/cssVariables";
 import { scrollUp } from "@lib/misc";
+import { getQueryParams } from "@lib/query";
 
-interface PaginationProps {
-  setPage: React.Dispatch<React.SetStateAction<number>>;
-  maxPage: number;
+interface State {
   page: number;
+  [key: string]: string | number;
 }
 
-const Pagination = ({ setPage, maxPage, page }: PaginationProps) => {
+interface PaginationProps<T> {
+  state: T;
+  setState: React.Dispatch<React.SetStateAction<T>>;
+  maxPage: number;
+  path: string;
+}
+
+const Pagination = <T extends State>({
+  state,
+  setState,
+  maxPage,
+  path,
+}: PaginationProps<T>) => {
+  const { push } = useRouter();
+
   const handlePrevPage = () => {
-    setPage((currentPage) => {
-      if (currentPage <= 1) {
-        return currentPage;
-      }
-      return currentPage - 1;
-    });
+    const newPage = state.page <= 1 ? 1 : state.page - 1;
+    const newState = {
+      ...state,
+      page: newPage,
+    };
+    setState(newState);
+    const query = getQueryParams(newState);
+
+    push(path, { query }, { shallow: true });
     scrollUp();
   };
 
   const handleNextPage = () => {
-    setPage((currentPage) => {
-      if (currentPage >= maxPage) {
-        return currentPage;
-      }
-      return currentPage + 1;
-    });
+    const newPage = state.page >= maxPage ? maxPage : state.page + 1;
+    const newState = {
+      ...state,
+      page: newPage,
+    };
+    setState(newState);
+    const query = getQueryParams(newState);
+
+    push(path, { query }, { shallow: true });
     scrollUp();
   };
 
-  const prevButtonDisabled = page <= 1;
-  const nextButtonDisabled = page >= maxPage;
+  const prevButtonDisabled = state.page <= 1;
+  const nextButtonDisabled = state.page >= maxPage;
 
   return (
     <section className="pagination">

@@ -5,18 +5,13 @@ import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import { pipe, filterByName, filterByRace, getPageContent } from "@lib/misc";
 import { getCharacters } from "@lib/ssg";
+import { getQueryParams } from "@lib/query";
 import { NextPageWithLayout, Races } from "@types";
 import { useState, useEffect, useRef } from "react";
 import Pagination from "@components/Pagination";
 
 type ReturnTypeStaticProps = {
   characters: Awaited<ReturnType<typeof getCharacters>>;
-};
-
-type QueryParams = {
-  name?: string;
-  race?: string;
-  page?: number;
 };
 
 export const getStaticProps: GetStaticProps<
@@ -31,69 +26,86 @@ export const getStaticProps: GetStaticProps<
   };
 };
 
+type State = {
+  name: string;
+  race: string;
+  page: number;
+};
+
 type CharacterPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 
 const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
   characters,
 }) => {
-  const {
-    query: { name: nameQuery, race: raceQuery, page: pageQuery },
-    replace,
-  } = useRouter();
-  const { current: replaceRef } = useRef(replace);
+  const { query: queryParams, replace } = useRouter();
 
-  const [name, setName] = useState("");
-  const [race, setRace] = useState("");
-  const [page, setPage] = useState(1);
+  const [state, setState] = useState<State>({
+    name: "",
+    race: "",
+    page: 1,
+  });
   const [limit] = useState(10);
 
   useEffect(() => {
-    if (typeof nameQuery === "string") {
-      setName(nameQuery);
+    const { name, race, page } = queryParams;
+    if (typeof name === "string") {
+      setState((st) => ({
+        ...st,
+        name,
+      }));
     }
     if (
-      typeof raceQuery === "string" &&
-      Object.values<string>(Races).includes(raceQuery)
+      typeof race === "string" &&
+      Object.values<string>(Races).includes(race)
     ) {
-      setRace(raceQuery);
+      setState((st) => ({
+        ...st,
+        race,
+      }));
     }
-    if (typeof pageQuery === "string" && !Number.isNaN(+pageQuery)) {
-      setPage(+pageQuery);
+    if (typeof page === "string" && !Number.isNaN(+page)) {
+      setState((st) => ({
+        ...st,
+        page: Number(page),
+      }));
     }
-  }, [nameQuery, raceQuery, pageQuery]);
-
-  useEffect(() => {
-    let query: QueryParams = {};
-
-    if (name) {
-      query.name = name;
-    }
-
-    if (race) {
-      query.race = race;
-    }
-
-    if (page && page > 1) {
-      query.page = page;
-    }
-
-    replaceRef("/characters", { query }, { shallow: true });
-  }, [name, race, page, replaceRef]);
+  }, [queryParams]);
 
   const filteredCharacters = pipe(
     characters,
-    filterByName(name),
-    filterByRace(race)
+    filterByName(state.name),
+    filterByRace(state.race)
   );
 
-  const paginatedCharacters = getPageContent(page, limit)(filteredCharacters);
+  const paginatedCharacters = getPageContent(
+    state.page,
+    limit
+  )(filteredCharacters);
 
   const handleNameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setName(e.target.value);
+    const newName = e.target.value;
+    const newState: State = {
+      ...state,
+      page: 1,
+      name: newName,
+    };
+    setState(newState);
+    const query = getQueryParams(newState);
+
+    replace("/characters", { query }, { shallow: true });
   };
 
   const handleRaceChange = (e: React.ChangeEvent<HTMLSelectElement>) => {
-    setRace(e.target.value);
+    const newRace = e.target.value;
+    const newState: State = {
+      ...state,
+      page: 1,
+      race: newRace,
+    };
+    setState(newState);
+    const query = getQueryParams(newState);
+
+    replace("/characters", { query }, { shallow: true });
   };
 
   const maxPage = Math.ceil(filteredCharacters.length / limit);
@@ -165,14 +177,14 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
           Name:
           <input
             type="text"
-            value={name}
+            value={state.name}
             onChange={handleNameChange}
             name="name"
           />
         </label>
         <label htmlFor="race">
           Race:
-          <select value={race} onChange={handleRaceChange}>
+          <select value={state.race} onChange={handleRaceChange}>
             <option value="">All</option>
             {Object.entries(Races).map(([n, r]) => (
               <option key={n} value={r}>
@@ -192,7 +204,12 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
         )}
       </section>
       {filteredCharacters.length > limit && (
-        <Pagination setPage={setPage} page={page} maxPage={maxPage} />
+        <Pagination
+          setState={setState}
+          state={state}
+          maxPage={maxPage}
+          path="/characters"
+        />
       )}
     </main>
   );

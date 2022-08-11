@@ -4,7 +4,7 @@ import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
 import { getQuotes } from "@lib/ssg";
 import { NextPageWithLayout } from "@types";
-import { useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 import { useRouter } from "next/router";
 import { useEffect } from "react";
 import {
@@ -14,15 +14,10 @@ import {
   getPageContent,
 } from "@lib/misc";
 import Pagination from "@components/Pagination";
+import { getQueryParams } from "@lib/query";
 
 type ReturnTypeStaticProps = {
   quotes: Awaited<ReturnType<typeof getQuotes>>;
-};
-
-type QueryParams = {
-  dialog?: string;
-  character?: string;
-  page?: number;
 };
 
 export const getStaticProps: GetStaticProps<
@@ -37,57 +32,81 @@ export const getStaticProps: GetStaticProps<
   };
 };
 
+type State = {
+  dialog: string;
+  character: string;
+  page: number;
+};
+
 type QuotesPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 
 const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
-  const {
-    query: { dialog: dialogQuery, character: characterQuery, page: pageQuery },
-    replace,
-  } = useRouter();
-  const { current: replaceRef } = useRef(replace);
+  const { query: queryParams, replace } = useRouter();
 
-  const [dialog, setDialog] = useState("");
-  const [character, setCharacter] = useState("");
-  const [page, setPage] = useState(1);
+  const [state, setState] = useState<State>({
+    dialog: "",
+    character: "",
+    page: 1,
+  });
+
   const [limit] = useState(20);
 
   useEffect(() => {
-    if (typeof dialogQuery === "string") {
-      setDialog(dialogQuery);
-    }
-    if (typeof characterQuery === "string") {
-      setCharacter(characterQuery);
-    }
-    if (typeof pageQuery === "string") {
-      setCharacter(pageQuery);
-    }
-  }, [dialogQuery, characterQuery, pageQuery]);
+    const { dialog, character, page } = queryParams;
 
-  useEffect(() => {
-    let query: QueryParams = {};
-
-    if (dialog) {
-      query.dialog = dialog;
+    if (typeof dialog === "string") {
+      setState((st) => ({
+        ...st,
+        dialog,
+      }));
     }
-
-    if (character) {
-      query.character = character;
+    if (typeof character === "string") {
+      setState((st) => ({
+        ...st,
+        character,
+      }));
     }
-
-    if (page && page > 1) {
-      query.page = page;
+    if (typeof page === "string" && Number.isInteger(Number(page))) {
+      setState((st) => ({
+        ...st,
+        page: Number(page),
+      }));
     }
+  }, [queryParams]);
 
-    replaceRef("/quotes", { query }, { shallow: true });
-  }, [dialog, character, page, replaceRef]);
+  const handleDialogChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const newDialog = e.target.value;
+    const newState: State = {
+      ...state,
+      page: 1,
+      dialog: newDialog,
+    };
+    setState(newState);
+    const query = getQueryParams(newState);
+
+    replace("/quotes", { query }, { shallow: true });
+  };
+
+  const handleCharacterChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const newCharacter = e.target.value;
+    const newState = {
+      ...state,
+      page: 1,
+      character: newCharacter,
+    };
+    setState(newState);
+    const query = getQueryParams(newState);
+
+    replace("/quotes", { query }, { shallow: true });
+  };
 
   const filteredQuotes = pipe(
     quotes,
-    filterByDialog(dialog),
-    filterByCharacterName(character)
+    filterByDialog(state.dialog),
+    filterByCharacterName(state.character)
   );
 
-  const paginatedQuotes = getPageContent(page, limit)(filteredQuotes);
+  const paginatedQuotes = getPageContent(state.page, limit)(filteredQuotes);
 
   const maxPage = Math.ceil(filteredQuotes.length / limit);
 
@@ -152,8 +171,8 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
           Dialog:
           <input
             type="text"
-            value={dialog}
-            onChange={(e) => setDialog(e.target.value)}
+            value={state.dialog}
+            onChange={handleDialogChange}
             name="dialog"
           />
         </label>
@@ -161,8 +180,8 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
           Character:
           <input
             type="text"
-            value={character}
-            onChange={(e) => setCharacter(e.target.value)}
+            value={state.character}
+            onChange={handleCharacterChange}
             name="character"
           />
         </label>
@@ -175,7 +194,12 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
         )}
       </section>
       {filteredQuotes.length > limit && (
-        <Pagination setPage={setPage} page={page} maxPage={maxPage} />
+        <Pagination
+          setState={setState}
+          state={state}
+          maxPage={maxPage}
+          path="/quotes"
+        />
       )}
     </main>
   );
