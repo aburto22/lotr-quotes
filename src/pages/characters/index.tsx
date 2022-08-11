@@ -131,6 +131,7 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
           display: flex;
           align-items: center;
           width: max-content;
+          font-size: 0.8rem;
         }
 
         input,
@@ -138,6 +139,7 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
           margin-left: 0.5rem;
           display: block;
           padding: 0.2rem 0.4rem;
+          font-size: 0.8rem;
         }
 
         section.board {
@@ -154,6 +156,12 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
 
           section.form {
             flex-direction: row;
+          }
+
+          label,
+          input,
+          select {
+            font-size: 1rem;
           }
         }
       `}</style>

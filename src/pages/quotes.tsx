@@ -132,12 +132,14 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
           display: flex;
           align-items: center;
           width: max-content;
+          font-size: 0.8rem;
         }
 
         input {
           margin-left: 0.5rem;
           display: block;
           padding: 0.2rem 0.4rem;
+          font-size: 0.8rem;
         }
 
         section.board {
@@ -151,6 +153,14 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
         @media screen and (min-width: 30rem) {
           section.form {
             flex-direction: row;
+          }
+
+          input {
+            font-size: 1rem;
+          }
+
+          label {
+            font-size: 1rem;
           }
         }
       `}</style>
