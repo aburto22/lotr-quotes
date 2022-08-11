@@ -183,9 +183,13 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
         </label>
       </section>
       <section className="board">
-        {paginatedCharacters.map((c) => (
-          <CharacterCard key={c._id} character={c} />
-        ))}
+        {paginatedCharacters.length > 0 ? (
+          paginatedCharacters.map((c) => (
+            <CharacterCard key={c._id} character={c} />
+          ))
+        ) : (
+          <h2>No characters found</h2>
+        )}
       </section>
       {filteredCharacters.length > limit && (
         <Pagination setPage={setPage} page={page} maxPage={maxPage} />
