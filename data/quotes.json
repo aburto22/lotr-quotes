@@ -1,7 +1,7 @@
 [
   {
     "_id": "5cd96e05de30eff6ebcce7e9",
-    "dialog": "Deagol!",
+    "dialog": "Deagol!!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcce7e9",
@@ -57,7 +57,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce7f0",
-    "dialog": "They cursed us",
+    "dialog": "They cursed us!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcce7f0",
@@ -89,7 +89,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce7f4",
-    "dialog": "Oh Smeagol Ive got one! Ive got a fish Smeagol, Smeagol!",
+    "dialog": "Oh Smeagol I've got one! I've got a fish Smeagol, Smeagol!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfca7",
     "id": "5cd96e05de30eff6ebcce7f4",
@@ -137,7 +137,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce7fa",
-    "dialog": "and cool, so nice for feet' and we only wish to catch a fish, so juicy sweet.",
+    "dialog": "and cool, so nice for feet, and we only wish to catch a fish, so juicy sweet.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcce7fa",
@@ -481,7 +481,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce825",
-    "dialog": "There and Back Again, a Hobbits tale by Bilbo Baggins and the Lord of the Rings by Frodo Baggins. You finished it.",
+    "dialog": "\"There and Back Again, a Hobbit's tale\" by Bilbo Baggins and \"The Lord of the Rings\" by Frodo Baggins. You finished it.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcce825",
@@ -505,7 +505,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce828",
-    "dialog": "To the harbour Bilbo. The elves have accorded you a special honour. A place on the last ship to leave Middle Earth.",
+    "dialog": "To the harbour, Bilbo. The elves have accorded you a special honour. A place on the last ship to leave Middle Earth.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcce828",
@@ -513,7 +513,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce829",
-    "dialog": "Salted pork'",
+    "dialog": "Salted pork",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebcce829",
@@ -689,7 +689,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce83f",
-    "dialog": "Oh, pity. (He sighs.) I would have like to have held it one last time.",
+    "dialog": "Oh, pity. I would have like to have held it one last time.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfc38",
     "id": "5cd96e05de30eff6ebcce83f",
@@ -697,7 +697,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce840",
-    "dialog": "We set out to save the Shire Sam and it has been saved, but not for me.",
+    "dialog": "We set out to save the Shire, Sam, and it has been saved. But not for me.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcce840",
@@ -729,7 +729,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce844",
-    "dialog": "Saruman'.. your staff is broken!",
+    "dialog": "Saruman! Your staff is broken!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebcce844",
@@ -817,7 +817,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce84f",
-    "dialog": "Grima'. Come down! Be free of him!",
+    "dialog": "Grima! Come down! Be free of him!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebcce84f",
@@ -825,7 +825,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce850",
-    "dialog": "No! Come down Saruman and your life will be spared!",
+    "dialog": "No! Come down, Saruman, and your life will be spared!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebcce850",
@@ -1257,7 +1257,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce886",
-    "dialog": "I can't! I can't' I can't manage the Ring Sam. It's' it's' such a weight to carry. It's such a weight.",
+    "dialog": "I can't! I can't! I can't manage the Ring, Sam. It's such a weight to carry. It's such a weight.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcce886",
@@ -1619,9 +1619,9 @@
     "_id": "5cd96e05de30eff6ebcce8b3",
     "dialog": "Set a fire in our flesh!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce8b3",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce8b4",
@@ -1643,9 +1643,9 @@
     "_id": "5cd96e05de30eff6ebcce8b6",
     "dialog": "You may triumph in the field of battle for a day, but against the power that has risen in the east, there is no victory!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce8b6",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce8b7",
@@ -1659,17 +1659,17 @@
     "_id": "5cd96e05de30eff6ebcce8b8",
     "dialog": "NOOOOOO, you will not take my son from me!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce8b8",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce8b9",
     "dialog": "Aaaaaahhhh!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce8b9",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce8ba",
@@ -1699,9 +1699,9 @@
     "_id": "5cd96e05de30eff6ebcce8bd",
     "dialog": "Faramir!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce8bd",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce8be",
@@ -1937,7 +1937,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce8db",
-    "dialog": "Naughty little fly. Why does he cry?,Caught in a web. Soon you'll be eaten.",
+    "dialog": "Naughty little fly. Why does he cry? Caught in a web. Soon you'll be eaten.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcce8db",
@@ -2081,7 +2081,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce8ed",
-    "dialog": "Take heart Merry. It will soon be over",
+    "dialog": "Take heart Merry. It will soon be over.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebcce8ed",
@@ -2113,7 +2113,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce8f1",
-    "dialog": "To battle",
+    "dialog": "To battle!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebcce8f1",
@@ -2435,9 +2435,9 @@
     "_id": "5cd96e05de30eff6ebcce919",
     "dialog": "Faramir! Say not that he has fallen.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce919",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce91a",
@@ -2545,7 +2545,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce927",
-    "dialog": "More will come",
+    "dialog": "More will come.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebcce927",
@@ -2555,9 +2555,9 @@
     "_id": "5cd96e05de30eff6ebcce928",
     "dialog": "My sons are spent! My line has ended!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce928",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce929",
@@ -2579,9 +2579,9 @@
     "_id": "5cd96e05de30eff6ebcce92b",
     "dialog": "My line has ended!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce92b",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce92c",
@@ -2595,17 +2595,17 @@
     "_id": "5cd96e05de30eff6ebcce92d",
     "dialog": "Rohan has deserted us!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce92d",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce92e",
-    "dialog": "Theoden's betrayed me! ABANDON YOUR POSTS!FLEE! FLEE FOR YOUR LIVES!",
+    "dialog": "Theoden's betrayed me! ABANDON YOUR POSTS! FLEE! FLEE FOR YOUR LIVES!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce92e",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce92f",
@@ -2627,9 +2627,9 @@
     "_id": "5cd96e05de30eff6ebcce931",
     "dialog": "The house of Stewards has failed.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce931",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce932",
@@ -3033,7 +3033,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce964",
-    "dialog": "Eowyn'",
+    "dialog": "Eowyn!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebcce964",
@@ -3081,7 +3081,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce96a",
-    "dialog": "Not this time. This time you must stay Gimli.",
+    "dialog": "Not this time. This time you must stay, Gimli.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebcce96a",
@@ -3187,9 +3187,9 @@
     "_id": "5cd96e05de30eff6ebcce977",
     "dialog": "And I shall not forget it! nor fail to reward that which is given. Fealty with love. Valour with honour. Disloyalty with vengeance. I do not think we should so lightly abandon the outer defences. Defences that your brother long held intact.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce977",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce978",
@@ -3203,13 +3203,13 @@
     "_id": "5cd96e05de30eff6ebcce979",
     "dialog": "I will not yield the River and Pellenor unfought. Osgiliath must be retaken.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce979",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce97a",
-    "dialog": "My lord Osgiliath is over run.",
+    "dialog": "My lord, Osgiliath is over run.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebcce97a",
@@ -3219,9 +3219,9 @@
     "_id": "5cd96e05de30eff6ebcce97b",
     "dialog": "Much must be risked in war. Is there a Captain here who still has the courage to do his lord's will?",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce97b",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce97c",
@@ -3275,9 +3275,9 @@
     "_id": "5cd96e05de30eff6ebcce982",
     "dialog": "Yes, I wish that.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce982",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce983",
@@ -3379,9 +3379,9 @@
     "_id": "5cd96e05de30eff6ebcce98f",
     "dialog": "That will depend on the manner of your return.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce98f",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce990",
@@ -3417,7 +3417,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce994",
-    "dialog": "Look, what's this? , Crumbs on his jacketses. He took it!He took it! I've seen him, he's always stuffing his face when master's not looking.",
+    "dialog": "Look, what's this? Crumbs on his jacketses. He took it! He took it! I've seen him, he's always stuffing his face when master's not looking.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcce994",
@@ -3553,7 +3553,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce9a5",
-    "dialog": "Its Mithrandir! The White Rider!",
+    "dialog": "It's Mithrandir! The White Rider!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebcce9a5",
@@ -3689,15 +3689,15 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce9b6",
-    "dialog": "Can you sing Master Hobbit?",
+    "dialog": "Can you sing, Master Hobbit?",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9b6",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9b7",
-    "dialog": "well, yes. At least well enough for my own people. But we have no songs for great halls and evil times.",
+    "dialog": "Well, yes. At least well enough for my own people. But we have no songs for great halls and evil times.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebcce9b7",
@@ -3721,7 +3721,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce9ba",
-    "dialog": "(looking back out to Mordor) All our hopes now lie with two little Hobbits...",
+    "dialog": "All our hopes now lie with two little Hobbits...",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebcce9ba",
@@ -3779,9 +3779,9 @@
     "_id": "5cd96e05de30eff6ebcce9c1",
     "dialog": "What you judged to be right! You sent the Ring of power into Mordor in the hands of a witless Halfling! It should have been brought back to the citadel to be kept safe. Hidden. Dark and deep in the vaults' not to be used. unless, at the uttermost end of need.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9c1",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9c2",
@@ -3795,9 +3795,9 @@
     "_id": "5cd96e05de30eff6ebcce9c3",
     "dialog": "Ever you desire to appear lordly and gracious as a King of old. Boromir would have remembered his father's need. He would have brought me a kingly gift",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9c3",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9c4",
@@ -3811,9 +3811,9 @@
     "_id": "5cd96e05de30eff6ebcce9c5",
     "dialog": "This is how you would serve your city? You would risk its utter ruin?",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9c5",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9c6",
@@ -3827,9 +3827,9 @@
     "_id": "5cd96e05de30eff6ebcce9c7",
     "dialog": "And why should your songs be unfit for my halls? Come, sing me a song.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9c7",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9c8",
@@ -3963,9 +3963,9 @@
     "_id": "5cd96e05de30eff6ebcce9d8",
     "dialog": "You know nothing of this matter!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9d8",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9d9",
@@ -3987,9 +3987,9 @@
     "_id": "5cd96e05de30eff6ebcce9db",
     "dialog": "My son! Leave me!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9db",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9dc",
@@ -4025,7 +4025,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce9e0",
-    "dialog": "Master betrayed us. Wicked. Tricksy. False. We ought to wring his filthy little neck. Kill him! Kill him! Kill them both! And then we take the precious......and we be the master!",
+    "dialog": "Master betrayed us. Wicked. Tricksy. False. We ought to wring his filthy little neck. Kill him! Kill him! Kill them both! And then we take the precious, and we be the master!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcce9e0",
@@ -4051,13 +4051,13 @@
     "_id": "5cd96e05de30eff6ebcce9e3",
     "dialog": "Boromir was loyal to me! Not some wizard's pupil.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcce9e3",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcce9e4",
-    "dialog": "Why does he hates poor Smeagol? What has Smeagol ever done to him? Master? ,Master carries a heavy burden Smeagol knows, heavy heavy burden. Fat one cannot know. He wants it. He needs it. Smeagol sees it in his eye. Very soon he will ask you for it. You will see. The fat one will take it from you!",
+    "dialog": "Why does he hates poor Smeagol? What has Smeagol ever done to him? Master? Master carries a heavy burden. Smeagol knows, heavy heavy burden. Fat one cannot know. He wants it. He needs it. Smeagol sees it in his eye. Very soon he will ask you for it. You will see. The fat one will take it from you!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcce9e4",
@@ -4169,7 +4169,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce9f2",
-    "dialog": "Final count.....42.",
+    "dialog": "Final count: 42.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd81",
     "id": "5cd96e05de30eff6ebcce9f2",
@@ -4249,7 +4249,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcce9fc",
-    "dialog": "He was twitching......because he's got my axe,embedded in his nervous system!",
+    "dialog": "He was twitching because he's got my axe embedded in his nervous system!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebcce9fc",
@@ -4377,7 +4377,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea0c",
-    "dialog": "Share it?,No. No. Dead plant and all that. Don't think he'd understand. Could be a distant relative.",
+    "dialog": "Share it? No. No. Dead plant and all that. Don't think he'd understand. Could be a distant relative.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccea0c",
@@ -4409,7 +4409,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea10",
-    "dialog": "The Shire must truly be a great realm Master Gamgee......where gardeners are held in high honor.",
+    "dialog": "The Shire must truly be a great realm, Master Gamgee, where gardeners are held in high honor.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebccea10",
@@ -4425,7 +4425,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea12",
-    "dialog": "Gollum says there's a path......near Minas Morgul that climbs up into the mountains.",
+    "dialog": "Gollum says there's a path near Minas Morgul that climbs up into the mountains.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccea12",
@@ -4465,7 +4465,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea17",
-    "dialog": "Captain Faramir......you have shown your quality, sir.",
+    "dialog": "Captain Faramir, you have shown your quality, sir.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccea17",
@@ -4513,7 +4513,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea1d",
-    "dialog": "Frodo......they say a dark terror dwells in the passes above Minas Morgul. You cannot go that way.",
+    "dialog": "Frodo, they say a dark terror dwells in the passes above Minas Morgul. You cannot go that way.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebccea1d",
@@ -4721,7 +4721,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea37",
-    "dialog": "Nan Barad! Nan Barad! Haldir, nan Barad! (",
+    "dialog": "Nan Barad! Nan Barad! Haldir, nan Barad!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccea37",
@@ -4737,7 +4737,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea39",
-    "dialog": "Nan Barad! To the Keep!",
+    "dialog": "Nan Barad! (To the Keep!)",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd3f",
     "id": "5cd96e05de30eff6ebccea39",
@@ -4809,7 +4809,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea42",
-    "dialog": "Look to my coming at first light on the fifth day. At dawn......Iook to the east.",
+    "dialog": "Look to my coming at first light on the fifth day. At dawn, Iook to the east.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccea42",
@@ -4825,7 +4825,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea44",
-    "dialog": "Yes.........Yes.........The horn of Helm Hammerhand......shall sound in the Deep......one last time.",
+    "dialog": "Yes. Yes. The horn of Helm Hammerhand shallsound in the Deep one last time.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccea44",
@@ -4905,7 +4905,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea4e",
-    "dialog": "Fell deeds, awake. Now for wrath......now for ruin and a red dawn.",
+    "dialog": "Fell deeds, awake. Now for wrath, now for ruin and a red dawn.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccea4e",
@@ -5249,7 +5249,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea79",
-    "dialog": "Folk in those stories......had lots of chances of turning back, only they didn't. They kept going......because they were holding on to something.",
+    "dialog": "Folk in those stories had lots of chances of turning back, only they didn't. They kept going, because they were holding on to something.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccea79",
@@ -5257,7 +5257,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea7a",
-    "dialog": "But in the end, it's only a passing thing...... this shadow. Even darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. Those were the stories that stayed with you......that meant something. Even if you were too small to understand why. But I think, Mr. Frodo, I do understand. I know now.",
+    "dialog": "But in the end, it's only a passing thing, this shadow. Even darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. Those were the stories that stayed with you, that meant something. Even if you were too small to understand why. But I think, Mr. Frodo, I do understand. I know now.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccea7a",
@@ -5313,7 +5313,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea81",
-    "dialog": "That doesn't make sense to me. But then......you are very small. Perhaps you're right. South it is, then. Hold on, little Shirelings. I always like going south. Somehow it feels like going downhill.",
+    "dialog": "That doesn't make sense to me. But then, you are very small. Perhaps you're right. South it is, then. Hold on, little Shirelings. I always like going south. Somehow it feels like going downhill.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccea81",
@@ -5353,7 +5353,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea86",
-    "dialog": "The Ring will not save Gondor. It has only the power to destroy. Please......Iet me go.",
+    "dialog": "The Ring will not save Gondor. It has only the power to destroy. Please, Iet me go.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccea86",
@@ -5361,7 +5361,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea87",
-    "dialog": "South? But that will lead you past lsengard.",
+    "dialog": "South? But that will lead you past Isengard.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccea87",
@@ -5401,7 +5401,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea8c",
-    "dialog": "And those little family of field mice......that climb up sometimes, and they tickle me awfully.",
+    "dialog": "And those little family of field mice that climb up sometimes, and they tickle me awfully.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccea8c",
@@ -5425,7 +5425,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea8f",
-    "dialog": "There is no curse in Elvish......Entish or the tongues of Men......for this treachery.",
+    "dialog": "There is no curse in Elvish, Entish, or the tongues of Men for this treachery.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccea8f",
@@ -5529,7 +5529,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccea9c",
-    "dialog": "They have business with the Orcs. My business is with lsengard tonight......with rock and stone.",
+    "dialog": "They have business with the Orcs. My business is with Isengard tonight with rock and stone.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccea9c",
@@ -5585,7 +5585,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceaa3",
-    "dialog": "Come, my friends. The Ents are going to war. It is likely......that we go to our doom. Last march......of the Ents.",
+    "dialog": "Come, my friends. The Ents are going to war. It is likely that we go to our doom. Last march of the Ents.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcceaa3",
@@ -5697,7 +5697,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceab1",
-    "dialog": "I have told your names to the Entmoot......and we have agreed......you are not Orcs.",
+    "dialog": "I have told your names to the Entmoot and we have agreed you are not Orcs.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcceab1",
@@ -5745,7 +5745,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceab7",
-    "dialog": "War? Yes. It affects us all. Tree, root and twig. But you must understand, young Hobbit......it takes a long time......to say anything in Old Entish... ...and we never say anything......unless it is worth taking......a long time to say.",
+    "dialog": "War? Yes. It affects us all. Tree, root and twig. But you must understand, young Hobbit, it takes a long time to say anything in Old Entish and we never say anything unless it is worth taking a long time to say.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcceab7",
@@ -5881,7 +5881,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceac8",
-    "dialog": "The fires of lsengard will spread......and the woods of Tuckborough and Buckland will burn. And.... And all that was once green and good in this world will be gone. There won't be a Shire, Pippin.",
+    "dialog": "The fires of Isengard will spread and the woods of Tuckborough and Buckland will burn. And all that was once green and good in this world will be gone. There won't be a Shire, Pippin.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcceac8",
@@ -5987,9 +5987,9 @@
     "_id": "5cd96e05de30eff6ebccead5",
     "dialog": "Where is he? Where is Gondor's finest? Where's my first-born?",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccead5",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccead6",
@@ -6027,25 +6027,25 @@
     "_id": "5cd96e05de30eff6ebcceada",
     "dialog": "Were you not entrusted to protect it?",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceada",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceadb",
     "dialog": "But for Faramir, this city would still be standing.",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceadb",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceadc",
     "dialog": "Oh, too few. You let the enemy walk in and take it on a whim. Always you cast a poor reflection on me.",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceadc",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceadd",
@@ -6075,9 +6075,9 @@
     "_id": "5cd96e05de30eff6ebcceae0",
     "dialog": "They say you vanquished the enemy almost single-handedly.",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceae0",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceae1",
@@ -6091,9 +6091,9 @@
     "_id": "5cd96e05de30eff6ebcceae2",
     "dialog": "lt has fallen into the hands of the Elves. Everyone will try to claim it: Men, Dwarves, wizards. We cannot let that happen. This thing must come to Gondor.",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceae2",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceae3",
@@ -6107,9 +6107,9 @@
     "_id": "5cd96e05de30eff6ebcceae4",
     "dialog": "It's dangerous, I know. Ever the Ring will seek to corrupt the hearts of lesser Men. But you, you are strong. And our need is great. It is our blood which is being spilled, our people who are dying. Sauron is biding his time. He's massing fresh armies. He will return. And when he does, we will be powerless to stop him. You must go. Bring me back this mighty gift.",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceae4",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceae5",
@@ -6123,9 +6123,9 @@
     "_id": "5cd96e05de30eff6ebcceae6",
     "dialog": "Would you deny your own father?",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceae6",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceae7",
@@ -6137,7 +6137,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceae8",
-    "dialog": "lf there is need to go to Rivendell......send me in his stead.",
+    "dialog": "lf there is need to go to Rivendell, send me in his stead.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebcceae8",
@@ -6153,19 +6153,19 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceaea",
-    "dialog": "Do not trouble me with Faramir......I know his uses, and they are few. We have more urgent things to speak of. Elrond of Rivendell has called a meeting. He will not say why, but I have guessed its purpose. It is rumored that the weapon of the enemy has been found.",
+    "dialog": "Do not trouble me with Faramir, I know his uses, and they are few. We have more urgent things to speak of. Elrond of Rivendell has called a meeting. He will not say why, but I have guessed its purpose. It is rumored that the weapon of the enemy has been found.",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceaea",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceaeb",
     "dialog": "You? Oh, I see. A chance for Faramir, captain of Gondor, to show his quality. I think not. I trust this mission only to your brother. The one who will not fail me.",
     "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcceaeb",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcceaec",
@@ -6177,7 +6177,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceaed",
-    "dialog": "Captain Faramir!We found the third one.",
+    "dialog": "Captain Faramir! We found the third one.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebcceaed",
@@ -6209,7 +6209,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceaf1",
-    "dialog": "The rock and pool Is nice and cool So juicy sweet Our only wish To catch a fish So juicy sweet",
+    "dialog": "The rock and pool is nice and cool, so juicy sweet! Our only wish, to catch a fish, so juicy sweet!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceaf1",
@@ -6241,7 +6241,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceaf5",
-    "dialog": "Don't hurt him!Smeagol, don't struggle. Smeagol, listen to me.",
+    "dialog": "Don't hurt him! Smeagol, don't struggle. Smeagol, listen to me.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcceaf5",
@@ -6273,7 +6273,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceaf9",
-    "dialog": "He is not coming back.Why do you linger herewhen there is no hope?",
+    "dialog": "He is not coming back. Why do you linger here when there is no hope?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcc8",
     "id": "5cd96e05de30eff6ebcceaf9",
@@ -6281,7 +6281,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceafa",
-    "dialog": "May the grace of the Valarprotect you.",
+    "dialog": "May the grace of the Valar protect you.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebcceafa",
@@ -6353,7 +6353,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb03",
-    "dialog": "If Aragorn survives this waryou will still be parted.If Sauron is defeatedand Aragorn made king......and all that you hope forcomes true......you will still have to tastethe bitterness of mortality.",
+    "dialog": "If Aragorn survives this war you will still be parted. If Sauron is defeated and Aragorn made king, and all that you hope for comes true, you will still have to taste the bitterness of mortality.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcc8",
     "id": "5cd96e05de30eff6ebcceb03",
@@ -6393,7 +6393,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb08",
-    "dialog": "Arwen. There is nothing for you here......only death.",
+    "dialog": "Arwen. There is nothing for you here, only death.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcc8",
     "id": "5cd96e05de30eff6ebcceb08",
@@ -6417,7 +6417,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb0b",
-    "dialog": "But you, my daughter......you will linger on in darknessand in doubt......as nightfall in winterthat comes without a star.Here you will dwell......bound to your griefunder the fading trees...... until all the world is changed......and the long years of your lifeare utterly spent.",
+    "dialog": "But you, my daughter, you will linger on in darkness and in doubt, as nightfall in winter that comes without a star. Here you will dwell, bound to your grief under the fading trees, until all the world is changed, and the long years of your life are utterly spent.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcc8",
     "id": "5cd96e05de30eff6ebcceb0b",
@@ -6569,7 +6569,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb1e",
-    "dialog": "So this is the answer to all the riddles. Here in the Wild I have you......two Halflings......and a host of men at my call. The Ring of Power within my grasp. A chance for Faramir, captain of Gondor......to show his quality.",
+    "dialog": "So this is the answer to all the riddles. Here in the Wild I have you two Halflings and a host of men at my call. The Ring of Power within my grasp. A chance for Faramir, captain of Gondor to show his quality.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebcceb1e",
@@ -6585,7 +6585,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb20",
-    "dialog": "Saruman attacks from lsengard. Sauron from Mordor. The fight will come to Men on both fronts. Gondor is weak. Sauron will strike us soon. And he will strike hard. He knows now we do not have the strength to repel him.",
+    "dialog": "Saruman attacks from Isengard. Sauron from Mordor. The fight will come to Men on both fronts. Gondor is weak. Sauron will strike us soon. And he will strike hard. He knows now we do not have the strength to repel him.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebcceb20",
@@ -6593,7 +6593,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb21",
-    "dialog": "I can't. You were right, Sam. You tried to tell me but.... I'm sorry. The Ring's taking me, Sam. If I put it on......he'll find me. He'll see.",
+    "dialog": "I can't. You were right, Sam. You tried to tell me but, I'm sorry. The Ring's taking me, Sam. If I put it on, he'll find me. He'll see.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcceb21",
@@ -6649,7 +6649,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb28",
-    "dialog": "There was no other. We set out from Rivendell with seven companions. One we lost in Moria......two were my kin......a Dwarf there was also. And an Elf and two Men. Aragorn, son of Arathorn, and Boromir of Gondor.",
+    "dialog": "There was no other. We set out from Rivendell with seven companions. One we lost in Moria. Two were my kin. A Dwarf there was also. And an Elf and two Men. Aragorn, son of Arathorn, and Boromir of Gondor.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcceb28",
@@ -6713,7 +6713,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb30",
-    "dialog": "All lsengard is emptied.",
+    "dialog": "All Isengard is emptied.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebcceb30",
@@ -6745,7 +6745,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb34",
-    "dialog": "Where is he? Where is he?,Get out of the way! I'm going to kill him!You are the luckiest, the canniest.....and the most reckless man I ever knew. Bless you, laddie.",
+    "dialog": "Where is he? Where is he? Get out of the way! I'm going to kill him! You are the luckiest, the canniest, and the most reckless man I ever knew. Bless you, laddie.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebcceb34",
@@ -6873,7 +6873,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb44",
-    "dialog": "What would you have me do? Look at my men. Their courage hangs by a thread. If this is to be our end, then I would have them make such an end......as to be worthy of remembrance.",
+    "dialog": "What would you have me do? Look at my men. Their courage hangs by a thread. If this is to be our end, then I would have them make such an end as to be worthy of remembrance.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebcceb44",
@@ -6897,7 +6897,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb47",
-    "dialog": "We need more time to lay provisions--",
+    "dialog": "We need more time to lay provisions!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0e",
     "id": "5cd96e05de30eff6ebcceb47",
@@ -6905,7 +6905,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb48",
-    "dialog": "The light of the Evenstardoes not wax and wane.It is mine to give to whom I will.Like my heart.Go to sleep.",
+    "dialog": "The light of the Evenstar does not wax and wane. It is mine to give to whom I will. Like my heart. Go to sleep.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebcceb48",
@@ -6929,7 +6929,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb4b",
-    "dialog": "( Gondor?! Where was Gondor when the Westfold fell?! Where was Gondor when our enemies closed in around us?! Where was Gon--?,No, my Lord Aragorn......we are alone. Get the women and children into the caves.",
+    "dialog": "Gondor?! Where was Gondor when the Westfold fell? Where was Gondor when our enemies closed in around us?! Where was Gon--? No, my Lord Aragorn, we are alone. Get the women and children into the caves.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebcceb4b",
@@ -6953,7 +6953,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb4e",
-    "dialog": "We wants it.We needs it.Must have the precious.They stole it from us.Sneaky little Hobbitses.Wicked. Tricksy. False.",
+    "dialog": "We wants it. We needs it. Must have the precious. They stole it from us. Sneaky little Hobbitses. Wicked. Tricksy. False.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb4e",
@@ -7001,7 +7001,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb54",
-    "dialog": "We Ents have not troubled......about the wars of Men and wizards......for a very long time. But now, something is about to happen......that has not happened......for an age. Entmoot.",
+    "dialog": "We Ents have not troubled about the wars of Men and wizards for a very long time. But now, something is about to happen that has not happened for an age. Entmoot.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcceb54",
@@ -7057,7 +7057,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb5b",
-    "dialog": "Beech. Oak. Chestnut. Ash. Good. Good. Good. Many have come. Now we must decide if the Ents......will go to war.",
+    "dialog": "Beech. Oak. Chestnut. Ash. Good. Good. Good. Many have come. Now we must decide if the Ents will go to war.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcceb5b",
@@ -7081,7 +7081,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb5e",
-    "dialog": "Where is she?The woman who gave you that jewel.",
+    "dialog": "Where is she? The woman who gave you that jewel.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebcceb5e",
@@ -7089,7 +7089,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb5f",
-    "dialog": "Our time here is ending.Arwen's time is ending.Let her go.Let her take the ship into the west.Let her bear away her love for youto the Undying Lands.There it will be ever green.",
+    "dialog": "Our time here is ending. Arwen's time is ending. Let her go. Let her take the ship into the west. Let her bear away her love for you to the Undying Lands. There it will be evergreen.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcc8",
     "id": "5cd96e05de30eff6ebcceb5f",
@@ -7177,7 +7177,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb6a",
-    "dialog": "Where would you be without me?Gollum. Gollum.I saved us.It was me. We survived because of me.",
+    "dialog": "Where would you be without me? Gollum. Gollum. I saved us. It was me. We survived because of me.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb6a",
@@ -7193,7 +7193,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb6c",
-    "dialog": "She stays for you.She belongs with her people.",
+    "dialog": "She stays for you. She belongs with her people.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcc8",
     "id": "5cd96e05de30eff6ebcceb6c",
@@ -7273,7 +7273,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb76",
-    "dialog": "Gandalf the White.Gandalf the Fool!Does he seek to humble mewith his newfound piety?",
+    "dialog": "Gandalf the White. Gandalf the Fool! Does he seek to humble me with his newfound piety?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebcceb76",
@@ -7281,7 +7281,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb77",
-    "dialog": "The Ring of Barahir.So Gandalf Greyhamethinks he has found lsildur's heir.The lost king of Gondor.He is a fool.The line was broken years ago. It matters not.The world of Men shall fall.It will begin at Edoras.",
+    "dialog": "The Ring of Barahir. So Gandalf Greyhame thinks he has found lsildur's heir. The lost king of Gondor. He is a fool. The line was broken years ago. It matters not. The world of Men shall fall. It will begin at Edoras.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebcceb77",
@@ -7289,7 +7289,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb78",
-    "dialog": "I am ready, Gamling.Bring my horse.",
+    "dialog": "I am ready, Gamling. Bring my horse.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebcceb78",
@@ -7337,7 +7337,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb7e",
-    "dialog": "There were threewho followed the wizard.An Elf, a Dwarf and a Man.",
+    "dialog": "There were three who followed the wizard. An Elf, a Dwarf and a Man.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebcceb7e",
@@ -7345,7 +7345,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb7f",
-    "dialog": "No, from the North.One of the Dunedain RangersI thought he was.His cloth was poor.And yet he bore a strange ringTwo serpents with emerald eyes.. One devouringthe other crowned with golden flowers.",
+    "dialog": "No, from the North. One of the Dunedain Rangers I thought he was. His cloth was poor. And yet he bore a strange ring. Two serpents with emerald eyes. One devouring the other crowned with golden flowers.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebcceb7f",
@@ -7377,7 +7377,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb83",
-    "dialog": "It was a gift.Keep it.",
+    "dialog": "It was a gift. Keep it.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebcceb83",
@@ -7393,7 +7393,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb85",
-    "dialog": "She is sailing to the Undying Landswith all that is left of her kin.",
+    "dialog": "She is sailing to the Undying Lands with all that is left of her kin.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebcceb85",
@@ -7417,7 +7417,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb88",
-    "dialog": "I am mortal. You are Elf-kind.It was a dream, Arwen.Nothing more.",
+    "dialog": "I am mortal. You are Elf-kind. It was a dream, Arwen. Nothing more.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebcceb88",
@@ -7449,7 +7449,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb8c",
-    "dialog": "Look.Look. See what Smeagol finds?",
+    "dialog": "Look. Look. See what Smeagol finds?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb8c",
@@ -7457,7 +7457,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb8d",
-    "dialog": "They are young.They are tender. They are nice.Yes, they are. Eat them. Eat them!",
+    "dialog": "They are young. They are tender. They are nice. Yes, they are. Eat them. Eat them!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb8d",
@@ -7465,7 +7465,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb8e",
-    "dialog": "You'll make him sick, you will......behaving like that. There's only one way to eata brace of coneys.",
+    "dialog": "You'll make him sick, you will, behaving like that. There's only one way to eata brace of coneys.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcceb8e",
@@ -7473,7 +7473,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb8f",
-    "dialog": "We told him to go away.And away he goes, precious. Gone! Gone! Gone!Smeagol is free!",
+    "dialog": "We told him to go away. And away he goes, precious. Gone! Gone! Gone! Smeagol is free!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb8f",
@@ -7489,7 +7489,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb91",
-    "dialog": "What's to ruin? There's hardly any meaton them.",
+    "dialog": "What's to ruin? There's hardly any meat on them.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcceb91",
@@ -7505,7 +7505,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb93",
-    "dialog": "Boil them, mash themstick them in a stew.Lovely, big, golden chipswith a nice piece of fried fish.",
+    "dialog": "Boil them, mash them, stick them in a stew. Lovely, big, golden chips with a nice piece of fried fish.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcceb93",
@@ -7521,7 +7521,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb95",
-    "dialog": "What's it doing?Stupid, fat Hobbit.It ruins it.",
+    "dialog": "What's it doing? Stupid, fat Hobbit. It ruins it!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb95",
@@ -7553,7 +7553,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb99",
-    "dialog": "What's taters, precious?What's taters? Eh?",
+    "dialog": "What's taters, precious? What's taters? Eh?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb99",
@@ -7577,7 +7577,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb9c",
-    "dialog": "Oh, yes, we could.Spoil a nice fish. Give it to us raw... ...and wriggling.You keep nasty chips.",
+    "dialog": "Oh, yes, we could. Spoil a nice fish. Give it to us raw and wriggling. You keep nasty chips.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceb9c",
@@ -7585,7 +7585,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb9d",
-    "dialog": "Women of this country learned long ago:Those without swordscan still die upon them.I fear neither death nor pain.",
+    "dialog": "Women of this country learned long ago. Those without swordscan still die upon them. I fear neither death nor pain.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebcceb9d",
@@ -7593,7 +7593,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceb9e",
-    "dialog": "A cage.To stay behind bars until useand old age accept them.And all chance of valor has gonebeyond recall or desire.",
+    "dialog": "A cage. To stay behind bars until use and old age accept them. And all chance of valor has gone beyond recall or desire.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebcceb9e",
@@ -7617,7 +7617,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceba1",
-    "dialog": "Theoden will not stay at Edoras.It's vulnerable. He knows this. He will expect an attack on the city. They will flee to Helm's Deep......the great fortress of Rohan. It is a dangerous road to takethrough the mountains. They will be slow. They will have women and childrenwith them.",
+    "dialog": "Theoden will not stay at Edoras. It's vulnerable. He knows this. He will expect an attack on the city. They will flee to Helm's Deep, the great fortress of Rohan. It is a dangerous road to take through the mountains. They will be slow. They will have women and children with them.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebcceba1",
@@ -7633,7 +7633,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceba3",
-    "dialog": "Call him names.Run him down all the time.",
+    "dialog": "Call him names. Run him down all the time.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcceba3",
@@ -7641,7 +7641,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceba4",
-    "dialog": "Because.Because that's what he is, Mr. Frodo.There's naught left in himbut lies and deceit.It's the Ring he wants.It's all he cares about.",
+    "dialog": "Because. Because that's what he is, Mr. Frodo. There's naught left in him but lies and deceit. It's the Ring he wants. It's all he cares about.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcceba4",
@@ -7657,7 +7657,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceba6",
-    "dialog": "You have no idea what it did to him......what it's still doing to him. I want to help him, Sam.",
+    "dialog": "You have no idea what it did to him, what it's still doing to him. I want to help him, Sam.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcceba6",
@@ -7665,7 +7665,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceba7",
-    "dialog": "You're a daughter of kings......a shieldmaiden of Rohan.I do not think that would be your fate.",
+    "dialog": "You're a daughter of kings, a shieldmaiden of Rohan. I do not think that would be your fate.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebcceba7",
@@ -7713,7 +7713,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebad",
-    "dialog": "You must lead the peopleto Helm's Deep, and make haste.",
+    "dialog": "You must lead the people to Helm's Deep, and make haste.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccebad",
@@ -7721,7 +7721,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebae",
-    "dialog": "Come on. Get me up here. I'm a rider.Come on!",
+    "dialog": "Come on. Get me up here. I'm a rider. Come on!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccebae",
@@ -7729,7 +7729,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebaf",
-    "dialog": "No!You must do this, for me.",
+    "dialog": "No! You must do this, for me.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccebaf",
@@ -7809,7 +7809,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebb9",
-    "dialog": "To make his war.The last war that will coverall the world in Shadow.",
+    "dialog": "To make his war. The last war that will cover all the world in Shadow.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccebb9",
@@ -7817,7 +7817,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebba",
-    "dialog": "Mr. Frodo.Look.It's an oliphaunt.",
+    "dialog": "Mr. Frodo. Look. It's an oliphaunt.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccebba",
@@ -7833,7 +7833,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebbc",
-    "dialog": "Wicked Men.Servants of Sauron.They are called to Mordor.The Dark One is gathering all armiesto him.It won't be long now.He will soon be ready.",
+    "dialog": "Wicked Men. Servants of Sauron. They are called to Mordor. The Dark One is gathering all armies to him. It won't be long now. He will soon be ready.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccebbc",
@@ -7873,7 +7873,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc1",
-    "dialog": "We are bound to an errand of secrecy.Those that claim to oppose the enemywould do well not to hinder us.",
+    "dialog": "We are bound to an errand of secrecy. Those that claim to oppose the enemy would do well not to hinder us.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccebc1",
@@ -7881,7 +7881,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc2",
-    "dialog": "The enemy?,His sense of duty was no lessthan yours, I deem. You wonder what his name is......where he came from. And if he was really evil at heart. What lies or threats led himon this long march from home. If he would not rather have stayed there......in peace. War will make corpses of us all. Bind their hands.",
+    "dialog": "The enemy? His sense of duty was no less than yours, I deem. You wonder what his name is, where he came from. And if he was really evil at heart. What lies or threats led him on this long march from home. If he would not rather have stayed there in peace. War will make corpses of us all. Bind their hands.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebccebc2",
@@ -7889,7 +7889,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc3",
-    "dialog": "There are no travelers in this land.Only servants of the Dark Tower.",
+    "dialog": "There are no travelers in this land. Only servants of the Dark Tower.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfcef",
     "id": "5cd96e05de30eff6ebccebc3",
@@ -7897,7 +7897,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc4",
-    "dialog": "Because I have to believehe can come back.",
+    "dialog": "Because I have to believe he can come back.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccebc4",
@@ -7913,7 +7913,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc6",
-    "dialog": "It's true, you don't seemany Dwarf women.And in fact, they are so alikein voice and appearance......that they're often mistakenfor Dwarf men.",
+    "dialog": "It's true, you don't see many Dwarf women. And in fact, they are so alike in voice and appearance that they're often mistaken for Dwarf men.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccebc6",
@@ -7921,7 +7921,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc7",
-    "dialog": "What do you know about it?Nothing!I'm sorry, Sam. I don't knowwhy I said that.",
+    "dialog": "What do you know about it? Nothing! I'm sorry, Sam. I don't know why I said that.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccebc7",
@@ -7929,7 +7929,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc8",
-    "dialog": "I do. It's the Ring.You can't take your eyes off it.I've seen you.You're not eating. You barely sleep. It's taken hold of you, Mr. Frodo. You have to fight it.",
+    "dialog": "I do. It's the Ring. You can't take your eyes off it. I've seen you. You're not eating. You barely sleep. It's taken hold of you, Mr. Frodo. You have to fight it.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccebc8",
@@ -7937,7 +7937,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebc9",
-    "dialog": "I know what I have to do, Sam.The Ring was entrusted to me.It's my task.Mine! My own!",
+    "dialog": "I know what I have to do, Sam. The Ring was entrusted to me. It's my task. Mine! My own!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccebc9",
@@ -7945,7 +7945,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebca",
-    "dialog": "Can't you hear yourself?Don't you know who you sound like?",
+    "dialog": "Can't you hear yourself? Don't you know who you sound like?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccebca",
@@ -7961,7 +7961,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebcc",
-    "dialog": "That one counts as mine!Stinking creature.",
+    "dialog": "That one counts as mine! Stinking creature.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccebcc",
@@ -7977,7 +7977,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebce",
-    "dialog": "Tell me what happenedand I will ease your passing.",
+    "dialog": "Tell me what happened and I will ease your passing.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccebce",
@@ -7993,7 +7993,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebd0",
-    "dialog": "Get the wounded on horses.The wolves of lsengard will return.Leave the dead.",
+    "dialog": "Get the wounded on horses. The wolves of Isengard will return. Leave the dead.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccebd0",
@@ -8009,7 +8009,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebd3",
-    "dialog": "He's......dead.He took a little tumble off the cliff.",
+    "dialog": "He's dead. He took a little tumble off the cliff.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdf377ed9587226e7949a",
     "id": "5cd96e05de30eff6ebccebd3",
@@ -8072,14 +8072,6 @@
     "characterName": "Faramir"
   },
   {
-    "_id": "5cd96e05de30eff6ebccebdb",
-    "dialog": "",
-    "movie": "5cd95395de30eff6ebccde5b",
-    "character": "5cd99d4bde30eff6ebccfcef",
-    "id": "5cd96e05de30eff6ebccebdb",
-    "characterName": "Faramir"
-  },
-  {
     "_id": "5cd96e05de30eff6ebccebdc",
     "dialog": "Simbelmyne. Ever has it grown on the tombs of my forebearers. Now it shall cover the grave of my son. Alas that these evil days should be mine. The young perish and the old linger. That I should live......to see the last days of my house.",
     "movie": "5cd95395de30eff6ebccde5b",
@@ -8129,7 +8121,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebe2",
-    "dialog": "Sons of Gondor, of Rohan, my brothers. (They listen to him.) I see it in your eyes, the same fear that would take the heart of me. A day may come when the courage of men fails, when we forsake our friends and break all bonds of fellowship, but it is not this day! An hour of wolves and shattered shields when the age of men comes crashing down, but it is not this day! This day we fight!",
+    "dialog": "Sons of Gondor, of Rohan, my brothers. I see it in your eyes, the same fear that would take the heart of me. A day may come when the courage of men fails, when we forsake our friends and break all bonds of fellowship, but it is not this day! An hour of wolves and shattered shields when the age of men comes crashing down, but it is not this day! This day we fight!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccebe2",
@@ -8177,7 +8169,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebe8",
-    "dialog": "The veiling shadow that glowers in the east takes shape.Sauron will suffer no rival.From the summit of Barad-durhis Eye watches ceaselessly.But he is not so mighty yetthat he is above fear.Doubt ever gnaws at him.The rumor has reached him.The heir of Numenor still lives.",
+    "dialog": "The veiling shadow that glowers in the east takes shape. Sauron will suffer no rival. From the summit of Barad-dur his Eye watches ceaselessly. But he is not so mighty yet that he is above fear. Doubt ever gnaws at him. The rumor has reached him. The heir of Numenor still lives.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccebe8",
@@ -8185,7 +8177,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebe9",
-    "dialog": "This, in turn, has given riseto the belief......that there are no Dwarf women......and that Dwarves just spring outof holes in the ground...",
+    "dialog": "This, in turn, has given rise to the belief that there are no Dwarf women! And that Dwarves just spring out of holes in the ground.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccebe9",
@@ -8209,7 +8201,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebec",
-    "dialog": "It's all right. Nobody panic.That was deliberate.It was deliberate.",
+    "dialog": "It's all right. Nobody panic. That was deliberate. It was deliberate.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccebec",
@@ -8217,7 +8209,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebed",
-    "dialog": "I haven't seen my niece smilefor a long time.She was a girl when they broughther father back dead.Cut down by Orcs.She watched her mothersuccumb to grief.",
+    "dialog": "I haven't seen my niece smile for a long time. She was a girl when they brought her father back dead. Cut down by Orcs. She watched her mother succumb to grief.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccebed",
@@ -8225,7 +8217,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebee",
-    "dialog": "Then she was left aloneto tend her king in growing fear.Doomed to wait upon an old manwho should have loved her as a father.",
+    "dialog": "Then she was left alone to tend her king in growing fear. Doomed to wait upon an old man who should have loved her as a father.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccebee",
@@ -8233,7 +8225,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebef",
-    "dialog": "Make way for the king.Make way for Theoden.Make way for the king.",
+    "dialog": "Make way for the king. Make way for Theoden. Make way for the king.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0e",
     "id": "5cd96e05de30eff6ebccebef",
@@ -8241,7 +8233,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebf0",
-    "dialog": "Our people are safe.We have paid for it with many lives.",
+    "dialog": "Our people are safe. We have paid for it with many lives.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccebf0",
@@ -8265,7 +8257,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebf3",
-    "dialog": "Gimli.?",
+    "dialog": "Gimli?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebccebf3",
@@ -8273,7 +8265,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebf4",
-    "dialog": "Lord Aragorn......where is he?",
+    "dialog": "Lord Aragorn, where is he?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebccebf4",
@@ -8281,7 +8273,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebf5",
-    "dialog": "No, I couldn'tI really couldn't.",
+    "dialog": "No, I couldn't. I really couldn't.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccebf5",
@@ -8289,7 +8281,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebf6",
-    "dialog": "What of those who cannot fight, my lord?The women and children?",
+    "dialog": "What of those who cannot fight, my lord? The women and children?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0e",
     "id": "5cd96e05de30eff6ebccebf6",
@@ -8305,7 +8297,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebf8",
-    "dialog": "Draw all our forces behind the wall.Bar the gate.And set a watch on the surround.",
+    "dialog": "Draw all our forces behind the wall. Bar the gate. And set a watch on the surround.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccebf8",
@@ -8313,7 +8305,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccebf9",
-    "dialog": "Helm's Deep has one weakness.Its outer wall is solid rock......but for a small culvertat its base...... which is little more than a drain.",
+    "dialog": "Helm's Deep has one weakness. Its outer wall is solid rock but for a small culvertat its base, which is little more than a drain.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccebf9",
@@ -8369,7 +8361,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec00",
-    "dialog": "By order of the king......the city must empty. We make for the refuge of Helm's Deep.",
+    "dialog": "By order of the king, the city must empty. We make for the refuge of Helm's Deep.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd66",
     "id": "5cd96e05de30eff6ebccec00",
@@ -8425,7 +8417,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec07",
-    "dialog": "When last I looked......Theoden, not Aragorn, was King of Rohan.",
+    "dialog": "When last I looked, Theoden, not Aragorn, was King of Rohan.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccec07",
@@ -8433,7 +8425,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec08",
-    "dialog": "What about side by side with a friend?,",
+    "dialog": "What about side by side with a friend?",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfd81",
     "id": "5cd96e05de30eff6ebccec08",
@@ -8497,7 +8489,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec10",
-    "dialog": "Clever Hobbits to climb so high!Mustn't go that way. Mustn't hurt the precious!",
+    "dialog": "Clever Hobbits to climb so high! Mustn't go that way. Mustn't hurt the precious!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccec10",
@@ -8505,7 +8497,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec11",
-    "dialog": "Sauron fears you, Aragorn.He fears what you may become.And so he'll strike hard and fastat the world of Men.He will use his puppet Sarumanto destroy Rohan.War is coming.Rohan must defend itselfand therein lies our first challenge......for Rohan is weak and ready to fall. The king's mind is enslavedit's an old device of Saruman's.His hold over King Theodenis now very strong.Sauron and Sarumanare tightening the noose.But for all their cunning......we have one advantage. The Ring remains hidden.And that we should seek to destroy it......has not yet enteredtheir darkest dreams. And so the weapon of the enemyis moving towards Mordor......in the hands of a Hobbit.Each day brings it closerto the fires of Mount Doom. We must trust now in Frodo.Everything depends upon speed......and the secrecy of his quest.",
+    "dialog": "Sauron fears you, Aragorn. He fears what you may become. And so he'll strike hard and fast at the world of Men. He will use his puppet Saruman to destroy Rohan. War is coming. Rohan must defend itself and therein lies our first challenge, for Rohan is weak and ready to fall. The king's mind is enslaved. It's an old device of Saruman's. His hold over King Theoden is now very strong. Sauron and Saruman are tightening the noose. But for all their cunning, we have one advantage. The Ring remains hidden. And that we should seek to destroy it has not yet entered their darkest dreams. And so the weapon of the enemy is moving towards Mordor in the hands of a Hobbit. Each day brings it closerto the fires of Mount Doom. We must trust now in Frodo. Everything depends upon speed and the secrecy of his quest.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccec11",
@@ -8513,7 +8505,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec12",
-    "dialog": "Did he?Did he, indeed? Good. Yes, very good.",
+    "dialog": "Did he? Did he, indeed? Good. Yes, very good.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccec12",
@@ -8529,7 +8521,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec14",
-    "dialog": "Oh, save us.My old Gaffer would have a thing or twoto say if he could see us now.",
+    "dialog": "Oh, save us. My old Gaffer would have a thing or two to say if he could see us now.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccec14",
@@ -8537,7 +8529,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec15",
-    "dialog": "Master says to show himthe way into Mordor.So good Smeagol doesmaster says so.",
+    "dialog": "Master says to show him the way into Mordor. So good Smeagol does master says so.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccec15",
@@ -8577,7 +8569,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec1a",
-    "dialog": "He's not alone.Sam went with him.",
+    "dialog": "He's not alone. Sam went with him.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccec1a",
@@ -8601,7 +8593,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec1d",
-    "dialog": "Look!The gate.It's opening!I can see a way down.",
+    "dialog": "Look! The gate. It's opening! I can see a way down.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccec1d",
@@ -8609,7 +8601,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec1e",
-    "dialog": "I made some stew.It isn't much, but it's hot.",
+    "dialog": "I made some stew. It isn't much, but it's hot.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebccec1e",
@@ -8625,7 +8617,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec20",
-    "dialog": "My uncle told me a strange thing.He said that you rode to warwith Thengel, my grandfather.But he must be mistaken.",
+    "dialog": "My uncle told me a strange thing. He said that you rode to warwith Thengel, my grandfather. But he must be mistaken.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebccec20",
@@ -8633,7 +8625,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec21",
-    "dialog": "King Theoden has a good memory.He was only a small child at the time.",
+    "dialog": "King Theoden has a good memory. He was only a small child at the time.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccec21",
@@ -8649,7 +8641,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec23",
-    "dialog": "Seventy?But you cannot be 80!",
+    "dialog": "Seventy? But you cannot be 80!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebccec23",
@@ -8673,7 +8665,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec26",
-    "dialog": "I'm going to rip outyour filthy little innards!",
+    "dialog": "I'm going to rip out your filthy little innards!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccec26",
@@ -8697,7 +8689,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec29",
-    "dialog": "What kind of devicecould bring down the wall?",
+    "dialog": "What kind of device could bring down the wall?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccec29",
@@ -8705,7 +8697,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec2a",
-    "dialog": "You are one of the Dunedain.A descendant of Numenorblessed with long life.It was said that your racehad passed into legend.",
+    "dialog": "You are one of the Dunedain. A descendant of Numenor, blessed with long life. It was said that your race had passed into legend.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebccec2a",
@@ -8761,7 +8753,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec31",
-    "dialog": "A new power is rising.Its victory is at hand.",
+    "dialog": "A new power is rising. Its victory is at hand.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccec31",
@@ -8777,7 +8769,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec33",
-    "dialog": "This night......the land will be stainedwith the blood of Rohan!March to Helm's Deep!Leave none alive!",
+    "dialog": "This night, the land will be stainedwith the blood of Rohan! March to Helm's Deep! Leave none alive!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccec33",
@@ -8793,7 +8785,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec35",
-    "dialog": "There was a time......when Saruman would walk in my woods.But now he has a mind of metal......and wheels.He no longer cares for growing things.",
+    "dialog": "There was a time when Saruman would walk in my woods. But now he has a mind of metal and wheels.He no longer cares for growing things.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccec35",
@@ -8809,7 +8801,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec37",
-    "dialog": "There is always smoke rising......from lsengard these days.",
+    "dialog": "There is always smoke rising from Isengard these days.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccec37",
@@ -8993,7 +8985,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec4e",
-    "dialog": "I was raised in Rivendell......for a time.Turn this fellow free. He's seen enough of war.",
+    "dialog": "I was raised in Rivendell for a time. Turn this fellow free. He's seen enough of war.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccec4e",
@@ -9129,7 +9121,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec5f",
-    "dialog": "I know, Mr. Frodo.I doubt even these Elvish cloakswill hide us in there.",
+    "dialog": "I know, Mr. Frodo. I doubt even these Elvish cloaks will hide us in there.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccec5f",
@@ -9137,7 +9129,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec60",
-    "dialog": "No!No! No, master!They catch you! They catch you!Don't take it to him.He wants the precious.Always he is looking for it.And the precious is wantingto go back to him.But we mustn't let him have it.",
+    "dialog": "No! No! No, master! They catch you! They catch you! Don't take it to him. He wants the precious. Always he is looking for it. And the precious is wanting to go back to him. But we mustn't let him have it.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccec60",
@@ -9145,7 +9137,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec61",
-    "dialog": "No! There's another way.More secret. A dark way.",
+    "dialog": "No! There's another way. More secret. A dark way.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccec61",
@@ -9193,7 +9185,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec67",
-    "dialog": "Yes. There's a path......and some stairs.And then......a tunnel.",
+    "dialog": "Yes. There's a path and some stairs.And then a tunnel.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccec67",
@@ -9273,7 +9265,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec71",
-    "dialog": "Their pace has quickened.They must have caught our scent.Hurry!",
+    "dialog": "Their pace has quickened. They must have caught our scent. Hurry!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccec71",
@@ -9321,7 +9313,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec77",
-    "dialog": "I'm wasted on cross-country.We Dwarves are natural sprinters.Very dangerous over short distances.",
+    "dialog": "I'm wasted on cross-country. We Dwarves are natural sprinters. Very dangerous over short distances.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccec77",
@@ -9401,7 +9393,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec81",
-    "dialog": "Tree?I am no tree!I am an Ent.",
+    "dialog": "Tree? I am no tree! I am an Ent.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccec81",
@@ -9441,7 +9433,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec86",
-    "dialog": "A tree-herder.A shepherd of the forest.",
+    "dialog": "A tree-herder. A shepherd of the forest.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccec86",
@@ -9449,7 +9441,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec87",
-    "dialog": "Side?I am on nobody's side......because nobody's on my sidelittle Orc.Nobody cares for the woods anymore.",
+    "dialog": "Side? I am on nobody's side because nobody's on my side little Orc. Nobody cares for the woods anymore.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccec87",
@@ -9497,7 +9489,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec8d",
-    "dialog": "Don't talk to it, Merry.Don't encourage it!",
+    "dialog": "Don't talk to it, Merry. Don't encourage it!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccec8d",
@@ -9521,7 +9513,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccec90",
-    "dialog": "It's Saruman's army.The war has started.",
+    "dialog": "It's Saruman's army. The war has started.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccec90",
@@ -9611,25 +9603,25 @@
     "_id": "5cd96e05de30eff6ebccec9b",
     "dialog": "Gondor is lost. There is no hope for men. Why do the fools fly? Better to die sooner than late. For die we must.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccec9b",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccec9c",
     "dialog": "No tomb for Denethor and Faramir. No long slow sleep of death embalmed. We shall burn like the heathen Kings of old. Bring wood and oil.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccec9c",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccec9d",
     "dialog": "I am steward of the house of An'rion. Thus have I walked, and thus now I will sleep.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccec9d",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccec9e",
@@ -9649,7 +9641,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceca0",
-    "dialog": "Keep breathing. That's the key.Breathe.",
+    "dialog": "Keep breathing. That's the key. Breathe.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebcceca0",
@@ -9681,7 +9673,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceca4",
-    "dialog": "We're not going no further......until we've had a breather.",
+    "dialog": "We're not going no further until we've had a breather.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebcceca4",
@@ -9705,7 +9697,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceca7",
-    "dialog": "I think we might have made a mistakeleaving the Shire, Pippin.",
+    "dialog": "I think we might have made a mistake leaving the Shire, Pippin.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcceca7",
@@ -9713,7 +9705,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceca8",
-    "dialog": "Merry!Merry!",
+    "dialog": "Merry! Merry!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebcceca8",
@@ -9849,7 +9841,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecb9",
-    "dialog": "Hello?Treebeard?Where has he gone?",
+    "dialog": "Hello? Treebeard? Where has he gone?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccecb9",
@@ -9865,7 +9857,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecbb",
-    "dialog": "Did you hear that?There it is again.Something's not right here.Not right at all.",
+    "dialog": "Did you hear that? There it is again. Something's not right here. Not right at all.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccecbb",
@@ -9873,7 +9865,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecbc",
-    "dialog": "I had the loveliest dream last night.There was this large barrelfull of pipe-weed.And we smoked all of it.And then......you were sick.I'd give anything for a whiff of Old Toby.",
+    "dialog": "I had the loveliest dream last night. There was this large barrelfull of pipe-weed. And we smoked all of it. And then you were sick. I'd give anything for a whiff of Old Toby.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccecbc",
@@ -9937,7 +9929,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecc4",
-    "dialog": "Pippin, everyone knows I'm the tall one.You're the short one.",
+    "dialog": "Pippin, everyone knows I'm the tall one. You're the short one.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccecc4",
@@ -9945,7 +9937,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecc5",
-    "dialog": "Please, Merry.You're what? Three-foot-six? At the most?Whereas me, I'm pushing 3'7\". 3'8\"!",
+    "dialog": "Please, Merry. You're what? Three-foot-six? At the most? Whereas me, I'm pushing 3'7\". 3'8\"!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccecc5",
@@ -10073,7 +10065,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecd5",
-    "dialog": "Rohan.Home of the Horse-lords.There's something strange at work here.Some evil gives speedto these creatures.Sets its will against us.",
+    "dialog": "Rohan. Home of the Horse-lords. There's something strange at work here. Some evil gives speed to these creatures. Sets its will against us.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccecd5",
@@ -10097,7 +10089,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecd8",
-    "dialog": "The Uruks turn northeast.They are taking the Hobbits to lsengard.",
+    "dialog": "The Uruks turn northeast.They are taking the Hobbits to Isengard.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd81",
     "id": "5cd96e05de30eff6ebccecd8",
@@ -10105,7 +10097,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecd9",
-    "dialog": "The Old World will burnin the fires of industry.The forests will fall.A new order will rise.We will drive the machine of warwith the sword and the spear...... and the iron fists of the Orc. We have only to remove those who oppose us.",
+    "dialog": "The Old World will burnin the fires of industry. The forests will fall. A new order will rise. We will drive the machine of war with the sword and the spear and the iron fists of the Orc. We have only to remove those who oppose us.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccecd9",
@@ -10113,7 +10105,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecda",
-    "dialog": "I want them armed and ready to marchwithin two weeks!",
+    "dialog": "I want them armed and ready to march within two weeks!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccecda",
@@ -10121,7 +10113,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecdb",
-    "dialog": "But, my lord, there are too many!They cannot all be armed in timewe don't have the means.",
+    "dialog": "But, my lord, there are too many! They cannot all be armed in time we don't have the means.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccecdb",
@@ -10137,7 +10129,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecdd",
-    "dialog": "We don't have enough fuelto feed the fires.",
+    "dialog": "We don't have enough fuel to feed the fires.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccecdd",
@@ -10145,7 +10137,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecde",
-    "dialog": "Hobbits?Never heard of a Hobbit before.Sounds like Orc mischief to me!They come with fire.They come with axes.Gnawing, biting, breakinghacking, burning! Destroyers and usurpers! Curse them!",
+    "dialog": "Hobbits? Never heard of a Hobbit before. Sounds like Orc mischief to me! They come with fire. They come with axes. Gnawing, biting, breaking, hacking, burning! Destroyers and usurpers! Curse them!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccecde",
@@ -10153,7 +10145,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecdf",
-    "dialog": "The world is changing.Who now has the strength to standagainst the armies of Isengard......and Mordor?To stand against the might of Sauronand Saruman......and the union of the two towers?",
+    "dialog": "The world is changing. Who now has the strength to stand against the armies of Isengard and Mordor? To stand against the might of Sauron and Saruman and the union of the two towers?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccecdf",
@@ -10161,7 +10153,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccece0",
-    "dialog": "Together, my Lord Sauron...... we shall rule this Middle-earth.",
+    "dialog": "Together, my Lord Sauron, we shall rule this Middle-earth.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccece0",
@@ -10177,7 +10169,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccece2",
-    "dialog": "Maybe you are......and maybe you aren't.The White Wizard will know.",
+    "dialog": "Maybe you are, and maybe you aren't.The White Wizard will know.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccece2",
@@ -10185,7 +10177,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccece3",
-    "dialog": "See? See?We've led you out.Hurry, Hobbitses. Hurry! Very lucky we find you. Nice Hobbit.",
+    "dialog": "See? See? We've led you out. Hurry, Hobbitses. Hurry! Very lucky we find you. Nice Hobbit.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccece3",
@@ -10201,7 +10193,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccece5",
-    "dialog": "No!You don't understand. We're Hobbits!Halflings!Shire-folk!",
+    "dialog": "No! You don't understand. We're Hobbits! Halflings! Shire-folk!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccece5",
@@ -10233,7 +10225,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccece9",
-    "dialog": "A swamp, yes, yes.Come, master. We will take youon safe paths through the mist.Come, Hobbits! Come! We go quickly. I found it. I did.The way through the marshes.Orcs don't use it.Orcs don't know it.They go around for miles and miles.Come quickly.Soft and quick as shadows we must be.",
+    "dialog": "A swamp, yes, yes. Come, master. We will take youon safe paths through the mist. Come, Hobbits! Come! We go quickly. I found it. I did. The way through the marshes. Orcs don't use it. Orcs don't know it. They go around for miles and miles. Come quickly. Soft and quick as shadows we must be.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccece9",
@@ -10241,7 +10233,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecea",
-    "dialog": "No, no birdses to eat.No crunchable birdses.We are famished! Yes!Famished we are, precious!",
+    "dialog": "No, no birdses to eat. No crunchable birdses. We are famished! Yes! Famished we are, precious!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccecea",
@@ -10273,7 +10265,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecee",
-    "dialog": "What does it eats?Is it tasty?,It tries to chokes us!We can't eats Hobbit food!We must starve!",
+    "dialog": "What does it eats? Is it tasty? It tries to chokes us! We can't eats Hobbit food! We must starve!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccecee",
@@ -10297,7 +10289,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecf1",
-    "dialog": "Oh, cruel Hobbit.It does not care if we be hungry.Does not care if we should die. Not like master.Master cares.Master knows.Yes.Precious.Once it takes hold of us......it never lets go.",
+    "dialog": "Oh, cruel Hobbit. It does not care if we be hungry. Does not care if we should die. Not like master. Master cares. Master knows. Yes. Precious. Once it takes hold of us, it never lets go.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccecf1",
@@ -10345,7 +10337,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecf7",
-    "dialog": "Bogs and ropeand goodness knows what.It's not natural. None of it.",
+    "dialog": "Bogs and rope and goodness knows what. It's not natural. None of it.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccecf7",
@@ -10361,7 +10353,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccecf9",
-    "dialog": "Nothing.Just a bit of seasoning.I thought maybe if we was havinga roast chicken one night or something.",
+    "dialog": "Nothing. Just a bit of seasoning. I thought maybe if we was havinga roast chicken one night or something.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccecf9",
@@ -10489,7 +10481,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced09",
-    "dialog": "You remember the Old Foreston the borders of Buckland?Folk used to say there was something inthe water that made the trees grow tall......and come alive.",
+    "dialog": "You remember the Old Forest on the borders of Buckland? Folk used to say there was something in the water that made the trees grow tall and come alive.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcced09",
@@ -10513,7 +10505,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced0c",
-    "dialog": "I'm starving.We ain't had nothing but maggoty breadfor three stinking days.",
+    "dialog": "I'm starving. We ain't had nothing but maggoty bread for three stinking days.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebcced0c",
@@ -10521,7 +10513,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced0d",
-    "dialog": "Yeah!Why can't we have some meat?!What about them?They're fresh.",
+    "dialog": "Yeah! Why can't we have some meat?! What about them? They're fresh.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa40",
     "id": "5cd96e05de30eff6ebcced0d",
@@ -10531,9 +10523,9 @@
     "_id": "5cd96e05de30eff6ebcced0e",
     "dialog": "The house of his spirit crumbles. He is burning. Already burning.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcced0e",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcced0f",
@@ -10545,7 +10537,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced10",
-    "dialog": "What about their legs?They don't need those.",
+    "dialog": "What about their legs? They don't need those.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa94",
     "id": "5cd96e05de30eff6ebcced10",
@@ -10553,7 +10545,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced11",
-    "dialog": "Get back, scum!The prisoners go to Saruman.Alive and unspoiled.",
+    "dialog": "Get back, scum! The prisoners go to Saruman. Alive and unspoiled.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfab2",
     "id": "5cd96e05de30eff6ebcced11",
@@ -10569,7 +10561,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced13",
-    "dialog": "Alive?,Why alive?Do they give good sport?",
+    "dialog": "Alive? Why alive? Do they give good sport?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa94",
     "id": "5cd96e05de30eff6ebcced13",
@@ -10593,7 +10585,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced16",
-    "dialog": "They have something.An Elvish weapon.The master wants it for the war.",
+    "dialog": "They have something. An Elvish weapon. The master wants it for the war.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfab2",
     "id": "5cd96e05de30eff6ebcced16",
@@ -10697,7 +10689,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced23",
-    "dialog": "Three-foot-eight.You did something.",
+    "dialog": "Three-foot-eight. You did something.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcced23",
@@ -10729,7 +10721,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced27",
-    "dialog": "Merry!No, Treebeard said that youshouldn't have any.",
+    "dialog": "Merry! No, Treebeard said that youshouldn't have any.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebcced27",
@@ -10737,7 +10729,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced28",
-    "dialog": "The beacon! The beacon of Amon D'n is lit.",
+    "dialog": "The beacon! The beacon of Amon Dîn is lit.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebcced28",
@@ -10777,7 +10769,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced2d",
-    "dialog": "Away with you.You should not be waking.Eat earth. Dig deep. Drink water.",
+    "dialog": "Away with you. You should not be waking. Eat earth. Dig deep. Drink water.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcced2d",
@@ -10785,7 +10777,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced2e",
-    "dialog": "Go to sleep.Away with you. Come, the forest is waking up.",
+    "dialog": "Go to sleep. Away with you. Come, the forest is waking up.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcced2e",
@@ -10817,7 +10809,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced32",
-    "dialog": "It isn't safe.The trees have grown wildand dangerous.Anger festers in their hearts.Black are their thoughts.Strong is their hate.They will harm you if they can.There are too few of us now.Too few of us Ents left to manage them.",
+    "dialog": "It isn't safe.The trees have grown wild and dangerous. Anger festers in their hearts. Black are their thoughts. Strong is their hate. They will harm you if they can. There are too few of us now. Too few of us Ents left to manage them.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebcced32",
@@ -10953,7 +10945,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced43",
-    "dialog": "The Horse-Men took your lands.They drove your people into the hillsto scratch a living off rocks.",
+    "dialog": "The Horse-Men took your lands.They drove your people into the hills to scratch a living off rocks.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebcced43",
@@ -10985,7 +10977,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced47",
-    "dialog": "We have only to remove thosewho oppose us.It will begin in Rohan.Too long have these peasantsstood against you.But no more.",
+    "dialog": "We have only to remove those who oppose us. It will begin in Rohan. Too long have these peasants stood against you. But no more.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebcced47",
@@ -10993,7 +10985,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced48",
-    "dialog": "Eothain! Eothain!You take your sister.You'll go faster with just two.",
+    "dialog": "Eothain! Eothain! You take your sister. You'll go faster with just two.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe1e17ed9587226e7949d",
     "id": "5cd96e05de30eff6ebcced48",
@@ -11001,7 +10993,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced49",
-    "dialog": "The Forest of Fangornlies on our doorstep. Burn it.",
+    "dialog": "The Forest of Fangorn lies on our doorstep. Burn it.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebcced49",
@@ -11009,7 +11001,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced4a",
-    "dialog": "All dead. All rotten.Elves and Men and Orcses.A great battle long ago.Dead Marshes.Yes. Yes, that is their name.This way.Don't follow the lights.",
+    "dialog": "All dead. All rotten. Elves and Men and Orcses. A great battle long ago. Dead Marshes. Yes. Yes, that is their name. This way. Don't follow the lights.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcced4a",
@@ -11065,7 +11057,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced51",
-    "dialog": "There are dead things!Dead faces in the water.",
+    "dialog": "There are dead things! Dead faces in the water.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced51",
@@ -11089,7 +11081,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced54",
-    "dialog": "Master should be resting.Master needs to keep up his strength.",
+    "dialog": "Master should be resting. Master needs to keep up his strength.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcced54",
@@ -11129,7 +11121,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced59",
-    "dialog": "So bright.So beautiful.",
+    "dialog": "So bright. So beautiful.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcced59",
@@ -11137,7 +11129,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced5a",
-    "dialog": "Mr. Frodo!Are you all right?",
+    "dialog": "Mr. Frodo! Are you all right?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced5a",
@@ -11153,7 +11145,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced5c",
-    "dialog": "(strokes his own palm)Our precious.",
+    "dialog": "Our precious.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcced5c",
@@ -11182,14 +11174,6 @@
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced5f",
     "characterName": "Samwise Gamgee"
-  },
-  {
-    "_id": "5cd96e05de30eff6ebcced60",
-    "dialog": "",
-    "movie": "5cd95395de30eff6ebccde5c",
-    "character": "5cd99d4bde30eff6ebccfbe6",
-    "id": "5cd96e05de30eff6ebcced60",
-    "characterName": "Aragorn II Elessar"
   },
   {
     "_id": "5cd96e05de30eff6ebcced61",
@@ -11257,7 +11241,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced69",
-    "dialog": "Sauron. Lord of the Earth",
+    "dialog": "Sauron. Lord of the Earth.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebcced69",
@@ -11377,7 +11361,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced78",
-    "dialog": "Who's gonna follow us down hereMr. Frodo?It's a shame, really.Lady Galadriel gave me that.Real Elvish rope. Well, there's nothing for it.It's one of my knots.Won't come free in a hurry.",
+    "dialog": "Who's gonna follow us down here Mr. Frodo? It's a shame, really. Lady Galadriel gave me that. Real Elvish rope. Well, there's nothing for it. It's one of my knots. Won't come free in a hurry.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced78",
@@ -11393,7 +11377,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced7a",
-    "dialog": "He didn't mean for a lot of thingsto happen, Sam......but they did.",
+    "dialog": "He didn't mean for a lot of things to happen, Sam, but they did.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcced7a",
@@ -11409,7 +11393,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced7c",
-    "dialog": "Let me see.Oh, yes. Lovely.Lembas bread. And look!More lembas bread.",
+    "dialog": "Let me see. Oh, yes. Lovely. Lembas bread. And look! More lembas bread.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced7c",
@@ -11417,7 +11401,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced7d",
-    "dialog": "I don't usually hold with foreign food.....but this Elvish stuff, it's not bad.",
+    "dialog": "I don't usually hold with foreign food, but this Elvish stuff, it's not bad.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced7d",
@@ -11449,7 +11433,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced81",
-    "dialog": "Mr. Frodo?It's the Ring, isn't it?",
+    "dialog": "Mr. Frodo? It's the Ring, isn't it?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced81",
@@ -11457,7 +11441,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced82",
-    "dialog": "My my old ring. Well I should... very much like to hold it again, one last time.",
+    "dialog": "My my old ring. Well I should very much like to hold it again, one last time.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc38",
     "id": "5cd96e05de30eff6ebcced82",
@@ -11473,7 +11457,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced84",
-    "dialog": "Mordor. The one place in Middle-earthwe don't want to see any closer.And it's the one placewe're trying to get to.It's just where we can't get. Let's face it, Mr. Frodo, we're lost.I don't think Gandalf meant for us tocome this way.",
+    "dialog": "Mordor. The one place in Middle-earth we don't want to see any closer. And it's the one place we're trying to get to. It's just where we can't get. Let's face it, Mr. Frodo, we're lost. I don't think Gandalf meant for us to come this way.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcced84",
@@ -11547,9 +11531,9 @@
     "_id": "5cd96e05de30eff6ebcced8d",
     "dialog": "Farewell Peregrin son of Paladin.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcced8d",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcced8e",
@@ -11571,9 +11555,9 @@
     "_id": "5cd96e05de30eff6ebcced90",
     "dialog": "I release you from my service. Go now and die and what way seems best to you.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebcced90",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebcced91",
@@ -11617,7 +11601,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced96",
-    "dialog": "Go on.Call for help. Squeal.No one's going to save you now.",
+    "dialog": "Go on. Call for help. Squeal. No one's going to save you now.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa94",
     "id": "5cd96e05de30eff6ebcced96",
@@ -11649,7 +11633,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced9a",
-    "dialog": "Looks like meat's back on the menuboys.",
+    "dialog": "Looks like meat's back on the menu, boys!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfab2",
     "id": "5cd96e05de30eff6ebcced9a",
@@ -11657,7 +11641,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced9b",
-    "dialog": "Pippin.Let's go.",
+    "dialog": "Pippin. Let's go.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcced9b",
@@ -11665,7 +11649,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced9c",
-    "dialog": "Riders of Rohan......what news from the Mark?",
+    "dialog": "Riders of Rohan, what news from the Mark?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebcced9c",
@@ -11673,7 +11657,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced9d",
-    "dialog": "What business does an Elf, a Manand a Dwarf have in the Riddermark?Speak quickly!",
+    "dialog": "What business does an Elf, a Man and a Dwarf have in the Riddermark? Speak quickly!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebcced9d",
@@ -11681,7 +11665,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced9e",
-    "dialog": "Just a mouthful......a bit of the flank.",
+    "dialog": "Just a mouthful, a bit of the flank.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa40",
     "id": "5cd96e05de30eff6ebcced9e",
@@ -11689,7 +11673,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcced9f",
-    "dialog": "I would cut off your head, Dwarf......if it stood but a little higherfrom the ground.",
+    "dialog": "I would cut off your head, Dwarf, if it stood but a little higher from the ground.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebcced9f",
@@ -11856,14 +11840,6 @@
     "characterName": "Peregrin Took"
   },
   {
-    "_id": "5cd96e05de30eff6ebccedb4",
-    "dialog": "",
-    "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfe19",
-    "id": "5cd96e05de30eff6ebccedb4",
-    "characterName": "Théoden"
-  },
-  {
     "_id": "5cd96e05de30eff6ebccedb5",
     "dialog": "Horse men! I wish I could muster an army of Dwarves, fully armed and filthy.",
     "movie": "5cd95395de30eff6ebccde5d",
@@ -11881,7 +11857,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedb7",
-    "dialog": "Die? No.We lost them.And now we cannot find them. I don't suppose you've seen Entwives in the Shire?",
+    "dialog": "Die? No. We lost them. And now we cannot find them. I don't suppose you've seen Entwives in the Shire?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccedb7",
@@ -11905,7 +11881,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedba",
-    "dialog": "Edoras and the Golden Hall of Meduseld. There dwells Theoden, King of Rohan...... whose mind is overthrown. Saruman's hold over King Theoden is now very strong.",
+    "dialog": "Edoras and the Golden Hall of Meduseld. There dwells Theoden, King of Rohan, whose mind is overthrown. Saruman's hold over King Theoden is now very strong.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccedba",
@@ -11913,7 +11889,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedbb",
-    "dialog": "Be careful what you say.Do not look for welcome here.",
+    "dialog": "Be careful what you say. Do not look for welcome here.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccedbb",
@@ -11921,7 +11897,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedbc",
-    "dialog": "My lord, your son......he is dead. My lord? Uncle? Will you not go to him? Will you do nothing?",
+    "dialog": "My lord, your son, he is dead. My lord? Uncle? Will you not go to him? Will you do nothing?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa59",
     "id": "5cd96e05de30eff6ebccedbc",
@@ -11961,7 +11937,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedc1",
-    "dialog": "Oh, he must have died sometime in the night. What a tragedy for the king......to lose his only son and heir.",
+    "dialog": "Oh, he must have died sometime in the night. What a tragedy for the king, to lose his only son and heir.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccedc1",
@@ -12025,7 +12001,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedc9",
-    "dialog": "Quickly!Go, child.",
+    "dialog": "Quickly! Go, child.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe1e17ed9587226e7949d",
     "id": "5cd96e05de30eff6ebccedc9",
@@ -12033,7 +12009,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedca",
-    "dialog": "Rohan, my lord......is ready to fall.",
+    "dialog": "Rohan, my lord, is ready to fall.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccedca",
@@ -12041,7 +12017,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedcb",
-    "dialog": "Theodred.Find the king's son!",
+    "dialog": "Theodred. Find the king's son!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebccedcb",
@@ -12073,7 +12049,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedcf",
-    "dialog": "Mordor will pay for this",
+    "dialog": "Mordor will pay for this!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccedcf",
@@ -12097,7 +12073,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedd2",
-    "dialog": "He was ambushed by Orcs.If we don't defend our countrySaruman will take it by force",
+    "dialog": "He was ambushed by Orcs. If we don't defend our country Saruman will take it by force.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebccedd2",
@@ -12105,7 +12081,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedd3",
-    "dialog": "That is a lie.Saruman the White has ever beenour friend and ally.",
+    "dialog": "That is a lie. Saruman the White has ever been our friend and ally.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccedd3",
@@ -12137,7 +12113,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedd7",
-    "dialog": "They do not see what lies aheadWhen sun has failed and moon is dead",
+    "dialog": "They do not see what lies ahead, when sun has failed and moon is dead!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccedd7",
@@ -12145,7 +12121,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedd8",
-    "dialog": "You were not so very differentfrom a Hobbit once.Were you?Smeagol.",
+    "dialog": "You were not so very different from a Hobbit once. Were you? Smeagol.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccedd8",
@@ -12161,7 +12137,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedda",
-    "dialog": "That was your name once, wasn't it?A long time ago.",
+    "dialog": "That was your name once, wasn't it? A long time ago.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccedda",
@@ -12169,7 +12145,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceddb",
-    "dialog": "My name.My name.Smeagol.",
+    "dialog": "My name. My name. Smeagol.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceddb",
@@ -12193,7 +12169,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedde",
-    "dialog": "Cold be heart and hand and boneCold be travellers far from home",
+    "dialog": "Cold be heart and hand and bone. Cold be travellers far from home.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccedde",
@@ -12361,7 +12337,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedf3",
-    "dialog": "Build me an army worthy of Mordor",
+    "dialog": "Build me an army worthy of Mordor.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea5",
     "id": "5cd96e05de30eff6ebccedf3",
@@ -12377,7 +12353,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedf5",
-    "dialog": "We have work to do",
+    "dialog": "We have work to do.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccedf5",
@@ -12385,7 +12361,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedf6",
-    "dialog": "The trees are strong my Lord. The roots go deep",
+    "dialog": "The trees are strong my Lord. The roots go deep.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccedf6",
@@ -12393,7 +12369,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedf7",
-    "dialog": "Rip them all down",
+    "dialog": "Rip them all down.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccedf7",
@@ -12401,7 +12377,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedf8",
-    "dialog": "This was the great watch tower of Amon",
+    "dialog": "This was the great watch tower of Amon.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccedf8",
@@ -12409,7 +12385,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedf9",
-    "dialog": "These are for you. Keep them close, I'm going to have a look round, Stay here",
+    "dialog": "These are for you. Keep them close, I'm going to have a look round, Stay here.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccedf9",
@@ -12433,7 +12409,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccedfc",
-    "dialog": "Tomatoes, sausages, nice crispy bacon",
+    "dialog": "Tomatoes, sausages, nice crispy bacon.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccedfc",
@@ -12544,14 +12520,6 @@
     "characterName": "Haldir (Haladin)"
   },
   {
-    "_id": "5cd96e05de30eff6ebccee0a",
-    "dialog": "",
-    "movie": "5cd95395de30eff6ebccde5c",
-    "character": "5cd99d4bde30eff6ebccfd23",
-    "id": "5cd96e05de30eff6ebccee0a",
-    "characterName": "Gimli"
-  },
-  {
     "_id": "5cd96e05de30eff6ebccee0b",
     "dialog": "That! was not so courteous!",
     "movie": "5cd95395de30eff6ebccde5c",
@@ -12601,7 +12569,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee11",
-    "dialog": "You bring great evil with you,You can go no further!",
+    "dialog": "You bring great evil with you! You can go no further!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd3f",
     "id": "5cd96e05de30eff6ebccee11",
@@ -12609,7 +12577,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee12",
-    "dialog": "It's because we've been here before.We're going in circles.",
+    "dialog": "It's because we've been here before. We're going in circles.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccee12",
@@ -12625,7 +12593,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee14",
-    "dialog": "Yes.....I can smell it.................We're not alone.",
+    "dialog": "Yes, I can smell it. We're not alone.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccee14",
@@ -12649,7 +12617,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee17",
-    "dialog": "What is that horrid stink?I warrant there's a nasty bog nearby. Can you smell it?",
+    "dialog": "What is that horrid stink? I warrant there's a nasty bog nearby. Can you smell it?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccee17",
@@ -12657,7 +12625,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee18",
-    "dialog": "The thieves............... The thieves.The filthy little thieves.Where is it?.............Where is it?They stole it from us.............My precious.........Curse them, we hates them!It's ours, it is, and we wants it!",
+    "dialog": "The thieves! The thieves! The filthy little thieves. Where is it? Where is it? They stole it from us! My precious! Curse them, we hates them! It's ours, it is, and we wants it!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccee18",
@@ -12665,7 +12633,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee19",
-    "dialog": "This is Sting.You've seen it before......haven't you, Gollum?Release him or I'll cut your throat.",
+    "dialog": "This is Sting. You've seen it before, haven't you, Gollum? Release him or I'll cut your throat.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccee19",
@@ -12673,7 +12641,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee1a",
-    "dialog": "It burns!It burns us!It freezes!Nasty Elves twisted it.",
+    "dialog": "It burns! It burns us! It freezes! Nasty Elves twisted it.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccee1a",
@@ -12697,7 +12665,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee1d",
-    "dialog": "Maybe he does deserve to die.But now that I see him, I do pity him.",
+    "dialog": "Maybe he does deserve to die. But now that I see him, I do pity him.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccee1d",
@@ -12705,7 +12673,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee1e",
-    "dialog": "No!That would kill us! Kill us!",
+    "dialog": "No! That would kill us! Kill us!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccee1e",
@@ -12713,7 +12681,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee1f",
-    "dialog": "We be nice to themif they be nice to us.Take it off us.We swears to do what you wants................We swears.",
+    "dialog": "We be nice to them if they be nice to us. Take it off us. We swears to do what you wants! We swears!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccee1f",
@@ -12721,7 +12689,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee20",
-    "dialog": "Mr Frodo?, Frodo! Frodo! I thought I'd lost you",
+    "dialog": "Mr Frodo?, Frodo! Frodo! I thought I'd lost you!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccee20",
@@ -12761,7 +12729,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee25",
-    "dialog": "Quiet, you!It's hopeless. Every Orc in Mordor'sgoing to hear this racket. Let's just tie him up and leave him.",
+    "dialog": "Quiet, you! It's hopeless. Every Orc in Mordor's going to hear this racket. Let's just tie him up and leave him.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccee25",
@@ -12801,7 +12769,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee2a",
-    "dialog": "Thanks",
+    "dialog": "Thanks!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccee2a",
@@ -12817,7 +12785,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee2c",
-    "dialog": "You look good Pippin",
+    "dialog": "You look good Pippin.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccee2c",
@@ -12913,7 +12881,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee38",
-    "dialog": "and to that I hold. I would rather share one lifetime with you than face all the ages of this world alone",
+    "dialog": "And to that I hold. I would rather share one lifetime with you than face all the ages of this world alone.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebccee38",
@@ -12921,7 +12889,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee39",
-    "dialog": "I choose a mortal life",
+    "dialog": "I choose a mortal life.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebccee39",
@@ -12929,7 +12897,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee3a",
-    "dialog": "You cannot give me this",
+    "dialog": "You cannot give me this.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccee3a",
@@ -12937,7 +12905,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee3b",
-    "dialog": "It is mine to give to whom I will. Like my heart",
+    "dialog": "It is mine to give to whom I will. Like my heart.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebccee3b",
@@ -12977,7 +12945,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee40",
-    "dialog": "You said you would bind yourself to me,foresaking the immortal life of your people",
+    "dialog": "You said you would bind yourself to me, foresaking the immortal life of your people",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccee40",
@@ -12985,7 +12953,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee41",
-    "dialog": "We are no spies.We track a party of Uruk-haiwestward across the plain.They have taken two of our friendscaptive.",
+    "dialog": "We are no spies. We track a party of Uruk-hai westward across the plain. They have taken two of our friends captive.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccee41",
@@ -12993,7 +12961,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee42",
-    "dialog": "In a dream, I saw the Eastern sky grow dark,In the West a pale light lingered A voice was crying, your doom is near at hand, Isildur's bane is found, Isildur's Bane",
+    "dialog": "In a dream, I saw the Eastern sky grow dark. In the West a pale light lingered. A voice was crying, your doom is near at hand, Isildur's bane is found, Isildur's Bane.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebccee42",
@@ -13001,7 +12969,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee43",
-    "dialog": "The Uruks are destroyed.We slaughtered them during the night.",
+    "dialog": "The Uruks are destroyed. We slaughtered them during the night.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebccee43",
@@ -13009,7 +12977,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee44",
-    "dialog": "But there were two Hobbits.Did you see two Hobbits with them?",
+    "dialog": "But there were two Hobbits. Did you see two Hobbits with them?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccee44",
@@ -13017,7 +12985,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee45",
-    "dialog": "They would be small.Only children to your eyes.",
+    "dialog": "They would be small. Only children to your eyes.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccee45",
@@ -13025,7 +12993,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee46",
-    "dialog": "We left none alive.We piled the carcasses and burned them.",
+    "dialog": "We left none alive. We piled the carcasses and burned them.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebccee46",
@@ -13129,7 +13097,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee53",
-    "dialog": "Your staff",
+    "dialog": "Your staff.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd66",
     "id": "5cd96e05de30eff6ebccee53",
@@ -13137,7 +13105,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee54",
-    "dialog": "Hmmm,You would not part an old man from his walking stick.",
+    "dialog": "Hmmm, you would not part an old man from his walking stick.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccee54",
@@ -13153,7 +13121,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee56",
-    "dialog": "Why should I welcome you......Gandalf Stormcrow?",
+    "dialog": "Why should I welcome you, Gandalf Stormcrow?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccee56",
@@ -13177,7 +13145,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee59",
-    "dialog": "A just question, my liege. Late is the hour......in which this conjurer chooses to appear. Lathspell I name him.Ill news is an ill guest.",
+    "dialog": "A just question, my liege. Late is the hour in which this conjurer chooses to appear. Lathspell I name him. Ill news is an ill guest.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccee59",
@@ -13193,7 +13161,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee5b",
-    "dialog": "Orcs are roaming freelyacross our lands.Unchecked. Unchallenged.Killing at will.Orcs bearing the White Hand of Saruman",
+    "dialog": "Orcs are roaming freely across our lands. Unchecked. Unchallenged. Killing at will. Orcs bearing the White Hand of Saruman!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebccee5b",
@@ -13201,7 +13169,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee5c",
-    "dialog": "Why do you lay these troubleson an already troubled mind?Can you not see?Your uncle is weariedby your malcontent......your warmongering.",
+    "dialog": "Why do you lay these troubles on an already troubled mind? Can you not see? Your uncle is wearied by your malcontent, your warmongering.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccee5c",
@@ -13209,7 +13177,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee5d",
-    "dialog": "Warmongering?,How long is it sinceSaruman bought you?What was the promised price, Grima?When all the Men are deadyou will take your share of the treasure?",
+    "dialog": "Warmongering?,How long is it since Saruman bought you? What was the promised price, Grima? When all the Men are dead you will take your share of the treasure?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebccee5d",
@@ -13217,7 +13185,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee5e",
-    "dialog": "Too long have you watched my sister.Too long have you haunted her steps.",
+    "dialog": "Too long have you watched my sister. Too long have you haunted her steps.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa5a",
     "id": "5cd96e05de30eff6ebccee5e",
@@ -13233,7 +13201,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee60",
-    "dialog": "Too much.You are banished forthwithfrom the kingdom of Rohan......and all its domainsunder pain of death.",
+    "dialog": "Too much. You are banished forthwith from the kingdom of Rohan and all its domains under pain of death.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccee60",
@@ -13241,7 +13209,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee61",
-    "dialog": "His staff. I told you to take the wizard's staff.",
+    "dialog": "His staff! I told you to take the wizard's staff!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccee61",
@@ -13249,7 +13217,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee62",
-    "dialog": "Grima.Grima. Grima.",
+    "dialog": "Grima. Grima. Grima.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebccee62",
@@ -13273,7 +13241,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee65",
-    "dialog": "Dead?No, you cannot kill them. No.",
+    "dialog": "Dead? No, you cannot kill them. No.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccee65",
@@ -13313,7 +13281,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee6a",
-    "dialog": "This forest is old.Very old.Full of memory......and anger.",
+    "dialog": "This forest is old. Very old. Full of memory......and anger.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd81",
     "id": "5cd96e05de30eff6ebccee6a",
@@ -13329,7 +13297,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee6c",
-    "dialog": "Wraiths!Wraiths on wings!They are calling for it.They are calling for the precious.",
+    "dialog": "Wraiths! Wraiths on wings! They are calling for it. They are calling for the precious.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebccee6c",
@@ -13361,7 +13329,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee70",
-    "dialog": "They have feelings, my friend.The Elves began it.Waking up the treesteaching them to speak.",
+    "dialog": "They have feelings, my friend. The Elves began it. Waking up the trees teaching them to speak.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd81",
     "id": "5cd96e05de30eff6ebccee70",
@@ -13593,7 +13561,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee8d",
-    "dialog": "Kingsfoil",
+    "dialog": "Kingsfoil!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccee8d",
@@ -13609,7 +13577,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee8f",
-    "dialog": "No! Mr Frodo",
+    "dialog": "No! Mr Frodo!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccee8f",
@@ -13625,7 +13593,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee91",
-    "dialog": "Frodo",
+    "dialog": "Frodo!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebccee91",
@@ -13641,7 +13609,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccee93",
-    "dialog": "He's fading",
+    "dialog": "He's fading.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc07",
     "id": "5cd96e05de30eff6ebccee93",
@@ -13809,7 +13777,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceea8",
-    "dialog": "Dwarf doors are invisible when closed",
+    "dialog": "Dwarf doors are invisible when closed.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebcceea8",
@@ -13865,7 +13833,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceeaf",
-    "dialog": "There's no promise you can makethat I can trust.",
+    "dialog": "There's no promise you can make that I can trust.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcceeaf",
@@ -13873,7 +13841,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceeb0",
-    "dialog": "We swears...... to serve the master........... of the precious. We will swear on..... on the precious. Gollum. Gollum.",
+    "dialog": "We swears, to serve the master of the precious. We will swear on... on... the precious. Gollum! Gollum!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceeb0",
@@ -13969,7 +13937,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceebc",
-    "dialog": "To the Gate, to the Gate!To the Gate, the master says. Yes!",
+    "dialog": "To the Gate, to the Gate! To the Gate, the master says. Yes!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceebc",
@@ -13977,7 +13945,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceebd",
-    "dialog": "No! We won't go back.Not there. Not to him.They can't make us. Gollum! Gollum!",
+    "dialog": "No! We won't go back. Not there. Not to him. They can't make us. Gollum! Gollum!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceebd",
@@ -13985,7 +13953,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceebe",
-    "dialog": "He's trying to trick us.If we let him go, he'll throttle usin our sleep.",
+    "dialog": "He's trying to trick us. If we let him go, he'll throttle us in our sleep.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcceebe",
@@ -14041,7 +14009,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceec5",
-    "dialog": "Hold these",
+    "dialog": "Hold these.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcceec5",
@@ -14057,7 +14025,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceec7",
-    "dialog": "But we swore to serve the masterof the precious.",
+    "dialog": "But we swore to serve the master of the precious.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9e",
     "id": "5cd96e05de30eff6ebcceec7",
@@ -14065,7 +14033,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceec8",
-    "dialog": "Don't you lose him Samwise Gamgee and I don't mean to.",
+    "dialog": "\"Don't you lose him Samwise Gamgee!\" And I don't mean to.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebcceec8",
@@ -14081,7 +14049,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceeca",
-    "dialog": "Dunno why he's so upset! Its only a couple of carrots",
+    "dialog": "Dunno why he's so upset! Its only a couple of carrots.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcceeca",
@@ -14105,7 +14073,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceecd",
-    "dialog": "Nothing, its just a whisp of cloud",
+    "dialog": "Nothing, its just a wisp of cloud.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebcceecd",
@@ -14113,7 +14081,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceece",
-    "dialog": "Its moving fast.... against the wind",
+    "dialog": "It's moving fast, against the wind.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebcceece",
@@ -14153,7 +14121,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceed3",
-    "dialog": "and some cabbages and those few bags of potatoes that we lifted last week. And the mushrooms the week before.",
+    "dialog": "And some cabbages and those few bags of potatoes that we lifted last week. And the mushrooms the week before.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebcceed3",
@@ -14217,7 +14185,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceedb",
-    "dialog": "as you wish! I care not",
+    "dialog": "As you wish! I care not.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebcceedb",
@@ -14241,7 +14209,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceede",
-    "dialog": "Never before has anyone uttered words of that tongue here in Imladris",
+    "dialog": "Never before has anyone uttered words of that tongue here in Imladris.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfcc8",
     "id": "5cd96e05de30eff6ebcceede",
@@ -14257,7 +14225,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceee0",
-    "dialog": "Aragorn! This.. is Isildur's heir",
+    "dialog": "Aragorn! This is Isildur's heir?",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebcceee0",
@@ -14289,7 +14257,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceee4",
-    "dialog": "Gondor has no King. Gondor needs no King",
+    "dialog": "Gondor has no King. Gondor needs no King.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebcceee4",
@@ -14297,7 +14265,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceee5",
-    "dialog": "Aragorn is right. We cannot use it",
+    "dialog": "Aragorn is right. We cannot use it.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebcceee5",
@@ -14313,7 +14281,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceee7",
-    "dialog": "Aye it is a gift!A gift to the foes of Mordor. Why not use this Ring?, Long has my father, the Steward of Gondor kept the forces of Mordor at bey. By the,of our people are your lands kept safe. Give Gondor the weapon of the enemy, let us use it against him",
+    "dialog": "Aye it is a gift! A gift to the foes of Mordor. Why not use this Ring?, Long has my father, the Steward of Gondor kept the forces of Mordor at bay. By the blood of our people are your lands kept safe. Give Gondor the weapon of the enemy, let us use it against him!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebcceee7",
@@ -14385,7 +14353,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceef0",
-    "dialog": "Fangorn?What madness drove them in there?",
+    "dialog": "Fangorn? What madness drove them in there?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebcceef0",
@@ -14393,7 +14361,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceef1",
-    "dialog": "Theoden......son of Thengel......too long have you sat in the Shadows.",
+    "dialog": "Theoden, son of Thengel, too long have you sat in the Shadows.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebcceef1",
@@ -14417,7 +14385,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceef4",
-    "dialog": "You have no power here...... Gandalf the Grey!",
+    "dialog": "You have no power here, Gandalf the Grey!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe19",
     "id": "5cd96e05de30eff6ebcceef4",
@@ -14449,7 +14417,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceef8",
-    "dialog": "The belt!Run!",
+    "dialog": "The belt! Run!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcceef8",
@@ -14625,7 +14593,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef0e",
-    "dialog": "From the lowest dungeonto the highest peak...... I fought with the Balrogof Morgoth.",
+    "dialog": "From the lowest dungeon to the highest peak...... I fought with the Balrog of Morgoth.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef0e",
@@ -14633,7 +14601,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef0f",
-    "dialog": "Until at last I threw downmy enemy......and smote his ruinupon the mountainside.",
+    "dialog": "Until at last I threw down my enemy and smote his ruin upon the mountainside.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef0f",
@@ -14744,14 +14712,6 @@
     "characterName": "MINOR_CHARACTER"
   },
   {
-    "_id": "5cd96e05de30eff6ebccef1d",
-    "dialog": "",
-    "movie": "5cd95395de30eff6ebccde5c",
-    "character": "5cd99d4bde30eff6ebccfc7c",
-    "id": "5cd96e05de30eff6ebccef1d",
-    "characterName": "Meriadoc Brandybuck"
-  },
-  {
     "_id": "5cd96e05de30eff6ebccef1e",
     "dialog": "War's brewing. The mountains are fair teeming with goblins.",
     "movie": "5cd95395de30eff6ebccde5c",
@@ -14766,14 +14726,6 @@
     "character": "5cd99d4bde30eff6ebccfdf1",
     "id": "5cd96e05de30eff6ebccef1f",
     "characterName": "Ted Sandyman"
-  },
-  {
-    "_id": "5cd96e05de30eff6ebccef20",
-    "dialog": "",
-    "movie": "5cd95395de30eff6ebccde5c",
-    "character": "5cd99d4bde30eff6ebccfe2e",
-    "id": "5cd96e05de30eff6ebccef20",
-    "characterName": "Peregrin Took"
   },
   {
     "_id": "5cd96e05de30eff6ebccef21",
@@ -15033,7 +14985,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef41",
-    "dialog": "Heh heh heh heh,Here, here. Raaar it's the dwarves that go swimming with little, hairy women haha",
+    "dialog": "Heh heh heh heh,Here, here. Raaar it's the dwarves that go swimming with little, hairy women haha.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccef41",
@@ -15065,7 +15017,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef45",
-    "dialog": "Oh you can search far and wide, You can drink the whole town dry, But you'll never find a beer so brown, But you'll never find a beer so brown, As the one we drink in our hometown, As the one we drink in our hometown. You can drink your fancy ales, You can drink them by the flagon But the only brew for the brave and true,",
+    "dialog": "Oh you can search far and wide, you can drink the whole town dry, but you'll never find a beer so brown, but you'll never find a beer so brown, as the one we drink in our hometown, as the one we drink in our hometown! You can drink your fancy ales, you can drink them by the flagon, but the only brew for the brave and true!",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccef45",
@@ -15073,7 +15025,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef46",
-    "dialog": "Nothing's happening",
+    "dialog": "Nothing's happening.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccef46",
@@ -15121,7 +15073,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef4c",
-    "dialog": "BuBye Bill",
+    "dialog": "BuBye Bill.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccef4c",
@@ -15129,7 +15081,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef4d",
-    "dialog": "Go on, go on, don't worry Sam. He knows the way home.",
+    "dialog": "Go on, go on. Don't worry Sam. He knows the way home.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccef4d",
@@ -15137,7 +15089,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef4e",
-    "dialog": "Do not disturb the water",
+    "dialog": "Do not disturb the water.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccef4e",
@@ -15145,7 +15097,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef4f",
-    "dialog": "Oh it's useless",
+    "dialog": "Oh it's useless!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef4f",
@@ -15201,7 +15153,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef56",
-    "dialog": "Merry!Merry!",
+    "dialog": "Merry! Merry!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccef56",
@@ -15217,7 +15169,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef58",
-    "dialog": "Hey! Come back now! Come back!There! What did I tell you?He's run off, the old villain.So much for his promises.",
+    "dialog": "Hey! Come back now! Come back! There! What did I tell you? He's run off, the old villain. So much for his promises.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccef58",
@@ -15225,7 +15177,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef59",
-    "dialog": "You're lateOur master grows impatient.He wants the Shire-rats now.",
+    "dialog": "You're late! Our master grows impatient. He wants the Shire-rats now.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbdecb6dc0baeae48cfa94",
     "id": "5cd96e05de30eff6ebccef59",
@@ -15241,7 +15193,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef5b",
-    "dialog": "Merry! Merry? Wake up",
+    "dialog": "Merry! Merry? Wake up!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccef5b",
@@ -15249,7 +15201,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef5c",
-    "dialog": "Sick, is he?Give him some medicine, boys!",
+    "dialog": "Sick, is he? Give him some medicine, boys!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccef5c",
@@ -15321,7 +15273,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef65",
-    "dialog": "What? It was just a detour. A shortcut",
+    "dialog": "What? It was just a detour. A shortcut!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccef65",
@@ -15369,7 +15321,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef6b",
-    "dialog": "Ssh.. be quiet",
+    "dialog": "Ssh.. be quiet!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccef6b",
@@ -15497,7 +15449,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef7b",
-    "dialog": "the dwarves delved too greadily and too deep",
+    "dialog": "The dwarves delved too greadily and too deep.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccef7b",
@@ -15505,7 +15457,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef7c",
-    "dialog": "You know what they woke in the dark of Khazad-d'm",
+    "dialog": "You know what they woke in the dark of Khazad-dûm",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccef7c",
@@ -15537,7 +15489,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef80",
-    "dialog": "and I suppose you think you're the one to do it.",
+    "dialog": "And I suppose you think you're the one to do it!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccef80",
@@ -15545,7 +15497,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef81",
-    "dialog": "and if we fail what then?, What happens when Sauron takes back what is his?",
+    "dialog": "And if we fail what then? What happens when Sauron takes back what is his?",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebccef81",
@@ -15553,7 +15505,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef82",
-    "dialog": "I will be dead before I see the Ring in the hands of an elf",
+    "dialog": "I will be dead before I see the Ring in the hands of an elf!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccef82",
@@ -15561,7 +15513,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef83",
-    "dialog": "Never trust an elf",
+    "dialog": "Never trust an elf.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccef83",
@@ -15569,7 +15521,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef84",
-    "dialog": "Do you not understand that while we bicker amongst ourselves, Sauron's power grows?! None can escape it! You'll all be destroyed",
+    "dialog": "Do you not understand that while we bicker amongst ourselves, Sauron's power grows?! None can escape it! You'll all be destroyed!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef84",
@@ -15577,7 +15529,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef85",
-    "dialog": "Your fingers would remember their old strength better......if they grasped your sword.",
+    "dialog": "Your fingers would remember their old strength better if they grasped your sword.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef85",
@@ -15625,7 +15577,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef8b",
-    "dialog": "Shadow, flame",
+    "dialog": "Shadow, flame.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea4",
     "id": "5cd96e05de30eff6ebccef8b",
@@ -15633,7 +15585,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef8c",
-    "dialog": "I've only......ever served you, my lord.",
+    "dialog": "I've only ever served you, my lord.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfe9d",
     "id": "5cd96e05de30eff6ebccef8c",
@@ -15649,7 +15601,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef8e",
-    "dialog": "Stars wheeled overhead......and every day was as longas a life age of the Earth.But it was not the end.I felt life in me again.",
+    "dialog": "Stars wheeled overhead......and every day was as long as a life age of the Earth. But it was not the end. I felt life in me again.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef8e",
@@ -15673,7 +15625,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef91",
-    "dialog": "I've been sent back...... until my task is done.",
+    "dialog": "I've been sent back until my task is done.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef91",
@@ -15689,7 +15641,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef93",
-    "dialog": "Gandalf?,Yes.That was what they used to call me.Gandalf the Grey.That was my name.",
+    "dialog": "Gandalf? Yes. That was what they used to call me. Gandalf the Grey. That was my name.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef93",
@@ -15713,7 +15665,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef96",
-    "dialog": "I am Gandalf the White.And I come back to you now......at the turn of the tide.",
+    "dialog": "I am Gandalf the White. And I come back to you now at the turn of the tide.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef96",
@@ -15721,7 +15673,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef97",
-    "dialog": "Edoras?That is no short distance!",
+    "dialog": "Edoras? That is no short distance!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccef97",
@@ -15729,7 +15681,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef98",
-    "dialog": "One stage of your journey is over.Another begins. We must travel to Edoras with all speed.",
+    "dialog": "One stage of your journey is over. Another begins. We must travel to Edoras with all speed.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef98",
@@ -15737,7 +15689,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef99",
-    "dialog": "We hear of trouble in Rohan.It goes ill with the king.",
+    "dialog": "We hear of trouble in Rohan. It goes ill with the king.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccef99",
@@ -15753,7 +15705,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef9b",
-    "dialog": "Then we have run all this way for nothing?Are we to leave those poor Hobbits here......in this horrid, dark, dank tree-infested--?,I mean, charming......quite charming forest.",
+    "dialog": "Then we have run all this way for nothing? Are we to leave those poor Hobbits here, in this horrid, dark, dank tree-infested-- I mean, charming, quite charming forest?",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccef9b",
@@ -15761,7 +15713,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef9c",
-    "dialog": "It was more than mere chance thatbrought Merry and Pippin to Fangorn.A great power has been sleeping herefor many long years.The coming of Merry and Pippinwill be like the falling of small stones......that starts an avalanchein the mountains.",
+    "dialog": "It was more than mere chance that brought Merry and Pippin to Fangorn. A great power has been sleeping here for many long years. The coming of Merry and Pippin will be like the falling of small stones that starts an avalanche in the mountains.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccef9c",
@@ -15769,7 +15721,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef9d",
-    "dialog": "and proud of it! Cheers Gaffer!",
+    "dialog": "And proud of it! Cheers Gaffer!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccef9d",
@@ -15777,7 +15729,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccef9e",
-    "dialog": "Cheers",
+    "dialog": "Cheers!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccef9e",
@@ -15793,7 +15745,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefa0",
-    "dialog": "Good Night lads",
+    "dialog": "Goodnight, lads.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc8f",
     "id": "5cd96e05de30eff6ebccefa0",
@@ -15801,7 +15753,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefa1",
-    "dialog": "Good night, sweet maiden of the golden ale!",
+    "dialog": "Goodnight, sweet maiden of the golden ale!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccefa1",
@@ -15833,7 +15785,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefa5",
-    "dialog": "Good Night Sam",
+    "dialog": "Goodnight, Sam.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccefa5",
@@ -15857,7 +15809,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefa8",
-    "dialog": "Hold out your hand Frodo. Its quite cool. What can you see?, Can you see anything?",
+    "dialog": "Hold out your hand Frodo. It's quite cool. What can you see? Can you see anything?",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccefa8",
@@ -15865,7 +15817,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefa9",
-    "dialog": "A thing is about to happen that has nothappened since the Elder Days.The Ents are going to wake up.....and find that they are strong.",
+    "dialog": "A thing is about to happen that has not happened since the Elder Days. The Ents are going to wake up and find that they are strong.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccefa9",
@@ -15897,7 +15849,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefad",
-    "dialog": "Oh no you dont, Go on",
+    "dialog": "Oh no you don't, Go on.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccefad",
@@ -15969,7 +15921,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefb6",
-    "dialog": "Quickly",
+    "dialog": "Quickly!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccefb6",
@@ -15985,7 +15937,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefb8",
-    "dialog": "Nothing. There's nothing, Wait. There are markings, Its some form of Elvish. I can't read it",
+    "dialog": "Nothing. There's nothing, Wait. There are markings, it's some form of Elvish. I can't read it.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccefb8",
@@ -16177,7 +16129,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefd1",
-    "dialog": "Frodo, the door! sticklebacks, where is that boy! FRODO!",
+    "dialog": "Frodo, the door! Sticklebacks, where is that boy! FRODO!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc38",
     "id": "5cd96e05de30eff6ebccefd1",
@@ -16369,7 +16321,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefe9",
-    "dialog": "This isn't a mine, it's a tomb",
+    "dialog": "This isn't a mine, it's a tomb.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc57",
     "id": "5cd96e05de30eff6ebccefe9",
@@ -16417,7 +16369,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccefef",
-    "dialog": "Man-flesh",
+    "dialog": "Man-flesh!",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccefef",
@@ -16473,7 +16425,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceff6",
-    "dialog": "That black rider was looking for something. Or someone (he walks up to Frodo and looks him in the face) Frodo?",
+    "dialog": "That black rider was looking for something. Or someone. Frodo?",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcceff6",
@@ -16489,7 +16441,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceff8",
-    "dialog": "I have to leave the Shire. Sam and I must get to Bree",
+    "dialog": "I have to leave the Shire. Sam and I must get to Bree.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebcceff8",
@@ -16513,7 +16465,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebcceffb",
-    "dialog": "Frodo, this way. Follow me",
+    "dialog": "Frodo, this way. Follow me.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebcceffb",
@@ -16553,7 +16505,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf000",
-    "dialog": "Let the Ringbearer decide",
+    "dialog": "Let the Ringbearer decide.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf000",
@@ -16577,7 +16529,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf003",
-    "dialog": "Get the rope Sam",
+    "dialog": "Get the rope Sam.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccf003",
@@ -16585,7 +16537,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf004",
-    "dialog": "So be it",
+    "dialog": "So be it.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf004",
@@ -16601,7 +16553,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf006",
-    "dialog": "Strong?!Oh, that's good.",
+    "dialog": "Strong?! Oh, that's good.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccf006",
@@ -16617,7 +16569,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf008",
-    "dialog": "We will go through the Mines",
+    "dialog": "We will go through the Mines.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccf008",
@@ -16625,7 +16577,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf009",
-    "dialog": "That is one of the Mearas......unless my eyes are cheatedby some spell.",
+    "dialog": "That is one of the Mearas......unless my eyes are cheated by some spell.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfd81",
     "id": "5cd96e05de30eff6ebccf009",
@@ -16649,7 +16601,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf00c",
-    "dialog": "",
+    "dialog": null,
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccf00c",
@@ -16657,7 +16609,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf00d",
-    "dialog": "Shadowfax.He is the lord of all horses......and has been my friendthrough many dangers.",
+    "dialog": "Shadowfax. He is the lord of all horses and has been my friend through many dangers.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf00d",
@@ -16665,7 +16617,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf00e",
-    "dialog": "Bru-ra-hroom. Don't be hasty.You might call it far, perhaps.My home lies deep in the forest......near the roots of the mountain.I told Gandalf I would keep you safe.And safe is where I'll keep you.I believe you will enjoy this next one too. It's one of my own compositions.Right.",
+    "dialog": "Bru-ra-hroom. Don't be hasty. You might call it far, perhaps. My home lies deep in the forest, near the roots of the mountain. I told Gandalf I would keep you safe. And safe is where I'll keep you.I believe you will enjoy this next one too. It's one of my own compositions. Right.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd9d533844dc4c55e47afed",
     "id": "5cd96e05de30eff6ebccf00e",
@@ -16689,7 +16641,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf011",
-    "dialog": "So stop your fretting, Master Dwarf.Merry and Pippin are quite safe.In fact, they are far saferthan you are about to be.",
+    "dialog": "So stop your fretting, Master Dwarf. Merry and Pippin are quite safe. In fact, they are far safer than you are about to be.",
     "movie": "5cd95395de30eff6ebccde5b",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf011",
@@ -16697,7 +16649,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf012",
-    "dialog": "In the common tongue it says",
+    "dialog": "In the common tongue it says.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf012",
@@ -16705,7 +16657,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf013",
-    "dialog": "You're supposed to stick it in the ground",
+    "dialog": "You're supposed to stick it in the ground.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccf013",
@@ -16721,7 +16673,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf015",
-    "dialog": "Outside",
+    "dialog": "Outside.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccf015",
@@ -16729,7 +16681,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf016",
-    "dialog": "It is in the ground",
+    "dialog": "It is in the ground.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccf016",
@@ -16803,17 +16755,17 @@
     "_id": "5cd96e05de30eff6ebccf01f",
     "dialog": "Perhaps you come to explain this.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccf01f",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccf020",
     "dialog": "Perhaps you have come to tell me why my son is dead.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccf020",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccf021",
@@ -16849,7 +16801,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf025",
-    "dialog": "Speech Bilbo",
+    "dialog": "Speech Bilbo!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cdbe49b7ed9587226e794a0",
     "id": "5cd96e05de30eff6ebccf025",
@@ -16867,9 +16819,9 @@
     "_id": "5cd96e05de30eff6ebccf027",
     "dialog": "This is my first command to you. How did you escape and my son did not? So mighty as man as he was.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccf027",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccf028",
@@ -16891,9 +16843,9 @@
     "_id": "5cd96e05de30eff6ebccf02a",
     "dialog": "You think you are wise Mithrandir. Yet for all your subtleties you have not wisdom. Do you think the eyes of the White Tower are blind? I have seen more than you know. With your left hand you would use me as a shield against Mordor and with your right you would seek to supplant me. I know who rides with Theoden of Rohan. Oh yes, word has reached my ears of this Aragorn, son of Arathorn. And I tell you now. I will not bow to this Ranger from the North. Last of a ragged house long bereft of Lordship.",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccf02a",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccf02b",
@@ -16937,7 +16889,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf030",
-    "dialog": "You didn't think Id miss your Uncle Bilbo's birthday?",
+    "dialog": "You didn't think I'd miss your Uncle Bilbo's birthday?",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf030",
@@ -16955,9 +16907,9 @@
     "_id": "5cd96e05de30eff6ebccf032",
     "dialog": "The rule of Gondor is mine and no others!",
     "movie": "5cd95395de30eff6ebccde5d",
-    "character": "5cd99d4bde30eff6ebccfca1",
+    "character": "5cd99d4bde30eff6ebccfc9a",
     "id": "5cd96e05de30eff6ebccf032",
-    "characterName": "Denethor I"
+    "characterName": "Denethor II"
   },
   {
     "_id": "5cd96e05de30eff6ebccf033",
@@ -17009,7 +16961,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf039",
-    "dialog": "And so life in the Shire goes on, very much as it has this past age. Full of its own comings and goings with change coming slowly, if it comes at all. For things are made to endure in the Shire, passing from one generation to the next. There's always been a Baggins living here under the Hill, in Bag End",
+    "dialog": "And so life in the Shire goes on, very much as it has this past age. Full of its own comings and goings with change coming slowly, if it comes at all. For things are made to endure in the Shire, passing from one generation to the next. There's always been a Baggins living here under the Hill, in Bag End.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc38",
     "id": "5cd96e05de30eff6ebccf039",
@@ -17201,7 +17153,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf051",
-    "dialog": "Bilbo had a shirt of mithril rings that Thorin gave him",
+    "dialog": "Bilbo had a shirt of mithril rings that Thorin gave him.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf051",
@@ -17209,7 +17161,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf052",
-    "dialog": "Aww that was a Kingly gift",
+    "dialog": "Aww that was a Kingly gift.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd23",
     "id": "5cd96e05de30eff6ebccf052",
@@ -17233,7 +17185,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf055",
-    "dialog": "I've no memory of this place",
+    "dialog": "I've no memory of this place.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf055",
@@ -17265,7 +17217,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf059",
-    "dialog": "The wealth of Moria is not in gold, or jewels, but Mithril",
+    "dialog": "The wealth of Moria is not in gold, or jewels, but Mithril.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf059",
@@ -17393,7 +17345,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf069",
-    "dialog": "Alas, elevnty-one years is far too short a time to live among such excellent and admirable hobbits. I don't know half of you half as well as I should like and I like less than half of you, half as well as you deserve.",
+    "dialog": "Alas, eleventy-one years is far too short a time to live among such excellent and admirable hobbits. I don't know half of you half as well as I should like and I like less than half of you, half as well as you deserve.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc38",
     "id": "5cd96e05de30eff6ebccf069",
@@ -17649,7 +17601,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf089",
-    "dialog": "No",
+    "dialog": "No.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc7c",
     "id": "5cd96e05de30eff6ebccf089",
@@ -17657,7 +17609,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf08a",
-    "dialog": "I think we are",
+    "dialog": "I think we are.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccf08a",
@@ -17673,7 +17625,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf08c",
-    "dialog": "Ssh! Gandalf's thinking",
+    "dialog": "Ssh! Gandalf's thinking.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfd0d",
     "id": "5cd96e05de30eff6ebccf08c",
@@ -17705,7 +17657,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf090",
-    "dialog": "I'm hungry",
+    "dialog": "I'm hungry.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfe2e",
     "id": "5cd96e05de30eff6ebccf090",
@@ -17713,7 +17665,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf091",
-    "dialog": "There's something down there",
+    "dialog": "There's something down there.",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfc15",
     "id": "5cd96e05de30eff6ebccf091",
@@ -18393,7 +18345,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf0e6",
-    "dialog": "Indeed, I can avoid being seen if I wish. But to disappear entirely That is a rare gift!",
+    "dialog": "Indeed, I can avoid being seen if I wish. But to disappear entirely; that is a rare gift!",
     "movie": "5cd95395de30eff6ebccde5c",
     "character": "5cd99d4bde30eff6ebccfbe6",
     "id": "5cd96e05de30eff6ebccf0e6",
@@ -19073,7 +19025,7 @@
   },
   {
     "_id": "5cd96e05de30eff6ebccf13b",
-    "dialog": "Run, Shadowfax show us the meaning of haste.",
+    "dialog": "Run, Shadowfax, show us the meaning of haste.",
     "movie": "5cd95395de30eff6ebccde5d",
     "character": "5cd99d4bde30eff6ebccfea0",
     "id": "5cd96e05de30eff6ebccf13b",
@@ -19120,3 +19072,4 @@
     "characterName": "Meriadoc Brandybuck"
   }
 ]
+
