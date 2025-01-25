@@ -12,7 +12,7 @@ interface QuoteCardProps {
 const QuoteCard = ({ quote }: QuoteCardProps) => {
   const dispatch = useAppDispatch();
   const isFavourite = useAppSelector((state) =>
-    state.favourites.includes(quote._id)
+    state.favourites.includes(quote._id),
   );
 
   const handleClick = () => {
@@ -39,7 +39,11 @@ const QuoteCard = ({ quote }: QuoteCardProps) => {
 
         h2 {
           color: ${colors.yellow};
-          text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
+          text-shadow:
+            3px 0 black,
+            -3px 0 black,
+            0 -3px black,
+            0 3px black;
           font-size: 1.1rem;
           text-align: center;
         }

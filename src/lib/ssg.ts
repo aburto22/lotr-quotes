@@ -33,11 +33,11 @@ export const getWikiImg = async (url: string | undefined) => {
   const dom = new JSDOM(html);
 
   const image: HTMLImageElement | null = dom.window.document.querySelector(
-    "img.pi-image-thumbnail"
+    "img.pi-image-thumbnail",
   );
 
   return image?.src || "";
 };
 
-export type Quote = typeof quotes[0];
-export type Character = typeof characters[0];
+export type Quote = (typeof quotes)[0];
+export type Character = (typeof characters)[0];

@@ -92,7 +92,7 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
   const filteredQuotes = pipe(
     quotes,
     filterByDialog(state.dialog),
-    filterByCharacterName(state.character)
+    filterByCharacterName(state.character),
   );
 
   const paginatedQuotes = getPageContent(state.page, limit)(filteredQuotes);
@@ -112,7 +112,11 @@ const QuotesPage: NextPageWithLayout<QuotesPageProps> = ({ quotes }) => {
 
         h1 {
           color: ${colors.yellow};
-          text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
+          text-shadow:
+            3px 0 black,
+            -3px 0 black,
+            0 -3px black,
+            0 3px black;
           text-align: center;
           margin-bottom: 0.5rem;
           font-family: "Morris Roman", sans-serif;

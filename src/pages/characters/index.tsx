@@ -62,12 +62,12 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
   const filteredCharacters = pipe(
     characters,
     filterByName(state.name),
-    filterByRace(state.race)
+    filterByRace(state.race),
   );
 
   const paginatedCharacters = getPageContent(
     state.page,
-    limit
+    limit,
   )(filteredCharacters);
 
   const handleNameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -111,7 +111,11 @@ const CharactersPage: NextPageWithLayout<CharacterPageProps> = ({
 
         h1 {
           color: ${colors.yellow};
-          text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
+          text-shadow:
+            3px 0 black,
+            -3px 0 black,
+            0 -3px black,
+            0 3px black;
           text-align: center;
           margin-bottom: 0.5rem;
           font-family: "Morris Roman", sans-serif;

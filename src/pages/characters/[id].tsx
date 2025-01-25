@@ -89,7 +89,11 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
 
         h1 {
           color: var(--yellow);
-          text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
+          text-shadow:
+            3px 0 black,
+            -3px 0 black,
+            0 -3px black,
+            0 3px black;
           text-align: center;
           margin-bottom: 1.5rem;
           font-family: "Morris Roman", sans-serif;

@@ -20,7 +20,11 @@ const Header = () => {
           text-align: center;
           margin-bottom: 0.5rem;
           color: ${colors.yellow};
-          text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
+          text-shadow:
+            3px 0 black,
+            -3px 0 black,
+            0 -3px black,
+            0 3px black;
           font-size: 1.5rem;
           font-family: "Morris Roman", sans-serif;
           display: block;

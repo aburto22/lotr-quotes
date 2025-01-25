@@ -54,7 +54,11 @@ const Home: NextPage = () => {
           transition: transform 0.5s;
           text-align: center;
           z-index: 1;
-          text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
+          text-shadow:
+            3px 0 black,
+            -3px 0 black,
+            0 -3px black,
+            0 3px black;
           display: inline-block;
         }
 

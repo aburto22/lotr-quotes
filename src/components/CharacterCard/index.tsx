@@ -27,7 +27,11 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
 
       h2 {
         color: ${colors.yellow};
-        text-shadow: 3px 0 black, -3px 0 black, 0 -3px black, 0 3px black;
+        text-shadow:
+          3px 0 black,
+          -3px 0 black,
+          0 -3px black,
+          0 3px black;
         font-size: 0.9rem;
         text-align: center;
       }

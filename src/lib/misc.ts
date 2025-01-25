@@ -34,7 +34,7 @@ export const filterByDialog =
   <T extends WithDialog>(array: T[]): T[] => {
     const dialogFormatted = dialog.toLowerCase();
     return array.filter((e) =>
-      e.dialog.toLowerCase().includes(dialogFormatted)
+      e.dialog.toLowerCase().includes(dialogFormatted),
     );
   };
 
@@ -47,7 +47,7 @@ export const filterByCharacterName =
   <T extends WithCharacterName>(array: T[]): T[] => {
     const characterNameFormatted = characterName.toLowerCase();
     return array.filter((e) =>
-      e.characterName.toLowerCase().includes(characterNameFormatted)
+      e.characterName.toLowerCase().includes(characterNameFormatted),
     );
   };
 
