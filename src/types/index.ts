@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import React from "react";
 
-export type NextPageWithLayout<P = {}, IP = P> = NextPage<P, IP> & {
+export type NextPageWithLayout<P = unknown, IP = P> = NextPage<P, IP> & {
   getLayout?: (page: React.ReactElement) => React.ReactNode;
 };
 
@@ -20,7 +20,7 @@ export interface ICharacter {
 }
 
 export interface IQuote {
-  dialog: string;
+  dialog: string | null;
   movie?: string;
   character: string;
   _id: string;

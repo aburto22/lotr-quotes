@@ -1,6 +1,53 @@
 import { useState } from "react";
 import Link from "next/link";
 import { colors } from "@styles/cssVariables";
+import css from "styled-jsx/css";
+
+const { className: classNameNavLink, styles: stylesNavLink } = css.resolve`
+  a {
+    padding: 1rem;
+    text-decoration: none;
+    transition: transform 0.3s;
+    color: ${colors.lightblue};
+    font-size: 0.9rem;
+    margin: 0 0.5rem;
+  }
+
+  a:hover {
+    transform: scale(1.1);
+    color: ${colors.lightblue};
+  }
+
+  @media screen and (min-width: 30rem) {
+    a {
+      font-size: 1.1rem;
+    }
+  }
+`;
+
+const { className: classNameHeaderLink, styles: stylesHeaderLink } =
+  css.resolve`
+    a {
+      text-decoration: none;
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: ${colors.yellow};
+      text-shadow:
+        3px 0 black,
+        -3px 0 black,
+        0 -3px black,
+        0 3px black;
+      font-size: 1.5rem;
+      font-family: "Morris Roman", sans-serif;
+      display: block;
+    }
+
+    @media screen and (min-width: 30rem) {
+      a {
+        font-size: 2.3rem;
+      }
+    }
+  `;
 
 const Header = () => {
   const [isShowing, setIsShowing] = useState(false);
@@ -13,21 +60,6 @@ const Header = () => {
           background-color: ${colors["transparent-blue"]};
           margin-bottom: 1rem;
           display: flex;
-        }
-
-        header > a {
-          text-decoration: none;
-          text-align: center;
-          margin-bottom: 0.5rem;
-          color: ${colors.yellow};
-          text-shadow:
-            3px 0 black,
-            -3px 0 black,
-            0 -3px black,
-            0 3px black;
-          font-size: 1.5rem;
-          font-family: "Morris Roman", sans-serif;
-          display: block;
         }
 
         h1.laptop-screen {
@@ -66,28 +98,10 @@ const Header = () => {
           transition: transform 300ms;
         }
 
-        nav a {
-          padding: 1rem;
-          text-decoration: none;
-          transition: transform 0.3s;
-          color: ${colors.lightblue};
-          font-size: 0.9rem;
-          margin: 0 0.5rem;
-        }
-
-        nav a:hover {
-          transform: scale(1.1);
-          color: ${colors.lightblue};
-        }
-
         @media screen and (min-width: 30rem) {
           header {
             padding-top: 1rem;
             flex-direction: column;
-          }
-
-          header > a {
-            font-size: 2.3rem;
           }
 
           h1.laptop-screen {
@@ -113,18 +127,14 @@ const Header = () => {
             flex-direction: row;
             transform: translateX(0);
           }
-
-          nav a {
-            font-size: 1.1rem;
-          }
         }
       `}</style>
+      {stylesNavLink}
+      {stylesHeaderLink}
 
-      <Link href="/home" passHref>
-        <a href="dummy">
-          <h1 className="laptop-screen">The Lord of the Rings</h1>
-          <h1 className="mobile-screen">LOTR</h1>
-        </a>
+      <Link href="/home" className={classNameHeaderLink}>
+        <h1 className="laptop-screen">The Lord of the Rings</h1>
+        <h1 className="mobile-screen">LOTR</h1>
       </Link>
       <button type="button" onClick={() => setIsShowing((st) => !st)}>
         <svg
@@ -150,20 +160,28 @@ const Header = () => {
         </svg>
       </button>
       <nav>
-        <Link href="/characters" passHref>
-          <a href="dummy" onClick={() => setIsShowing(false)}>
-            Characters
-          </a>
+        <Link
+          href="/characters"
+          onClick={() => setIsShowing(false)}
+          className={classNameNavLink}
+        >
+          Characters
         </Link>
-        <Link href="/quotes" passHref>
-          <a href="dummy" onClick={() => setIsShowing(false)}>
-            Quotes
-          </a>
+        <Link
+          href="/quotes"
+          passHref
+          onClick={() => setIsShowing(false)}
+          className={classNameNavLink}
+        >
+          Quotes
         </Link>
-        <Link href="/favourites" passHref>
-          <a href="dummy" onClick={() => setIsShowing(false)}>
-            Favourites
-          </a>
+        <Link
+          href="/favourites"
+          passHref
+          onClick={() => setIsShowing(false)}
+          className={classNameNavLink}
+        >
+          Favourites
         </Link>
       </nav>
     </header>

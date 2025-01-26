@@ -23,7 +23,7 @@ export const getQuotes = async () =>
     characterName: q.characterName,
   }));
 
-export const getWikiImg = async (url: string | undefined) => {
+export const getWikiImg = async (url: string | null) => {
   if (!url) {
     return "";
   }

@@ -14,6 +14,7 @@ import { NextPageWithLayout } from "@types";
 import CharacterProperty from "@components/CharacterProperty";
 import { useRouter } from "next/router";
 import { parseForQuery } from "@lib/misc";
+import css from "styled-jsx/css";
 
 type ReturnTypeStaticProps = {
   character: Character & {
@@ -65,6 +66,22 @@ export const getStaticProps: GetStaticProps<
   };
 };
 
+const { styles, className } = css.resolve`
+  a {
+    margin-top: 1rem;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: ${colors.lightblue};
+    font-size: 0.9rem;
+    transition: transform 0.2s;
+  }
+
+  a:hover {
+    transform: scale(1.2);
+  }
+`;
+
 type CharacterPageProps = InferGetStaticPropsType<typeof getStaticProps>;
 
 const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
@@ -106,20 +123,6 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
           color: white;
         }
 
-        a {
-          margin-top: 1rem;
-          display: block;
-          text-align: center;
-          text-decoration: none;
-          color: ${colors.lightblue};
-          font-size: 0.9rem;
-          transition: transform 0.2s;
-        }
-
-        a:hover {
-          transform: scale(1.2);
-        }
-
         div.image-container {
           position: relative;
           width: 20rem;
@@ -146,6 +149,7 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
           transform: scale(1.1);
         }
       `}</style>
+      {styles}
 
       <h1>{character.name}</h1>
       {character.image && (
@@ -168,9 +172,9 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
       <CharacterProperty label="Height" prop={character.height} />
       <Link
         href={`/quotes?character=${parseForQuery(character.name)}`}
-        passHref
+        className={className}
       >
-        <a href="dummy">See quotes</a>
+        See quotes
       </Link>
       {character.wikiUrl && <a href={character.wikiUrl}>Visit wikipedia</a>}
       <button onClick={handleClick} type="button">

@@ -4,7 +4,8 @@ import { colors } from "@styles/cssVariables";
 import { ICharacter } from "@types";
 
 interface CharacterCardProps {
-  character: Pick<ICharacter, "_id" | "name"> & Partial<ICharacter>;
+  character: Pick<ICharacter, "_id" | "name"> &
+    Partial<Omit<ICharacter, "race">> & { race: string | null };
 }
 
 const CharacterCard = ({ character }: CharacterCardProps) => (
@@ -73,9 +74,7 @@ const CharacterCard = ({ character }: CharacterCardProps) => (
       <p>{character.gender}</p>
     )}
     {character.race && character.race !== "NaN" && <p>{character.race}</p>}
-    <Link href={`/characters/${character._id}`} passHref>
-      <a href="dummy">more...</a>
-    </Link>
+    <Link href={`/characters/${character._id}`}>more...</Link>
   </article>
 );
 

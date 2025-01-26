@@ -15,18 +15,18 @@ export const filterByName =
   };
 
 type WithRace = {
-  race: string;
+  race: string | null;
 };
 
 export const filterByRace =
   (race: string) =>
   <T extends WithRace>(array: T[]): T[] => {
     const raceFormatted = race.toLowerCase();
-    return array.filter((e) => e.race.toLowerCase().includes(raceFormatted));
+    return array.filter((e) => e.race?.toLowerCase().includes(raceFormatted));
   };
 
 type WithDialog = {
-  dialog: string;
+  dialog: string | null;
 };
 
 export const filterByDialog =
@@ -34,7 +34,7 @@ export const filterByDialog =
   <T extends WithDialog>(array: T[]): T[] => {
     const dialogFormatted = dialog.toLowerCase();
     return array.filter((e) =>
-      e.dialog.toLowerCase().includes(dialogFormatted),
+      e.dialog?.toLowerCase().includes(dialogFormatted),
     );
   };
 

@@ -2,7 +2,7 @@ import { useAppSelector } from "@hooks/redux";
 import type { GetStaticProps, InferGetStaticPropsType } from "next";
 import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
-import type { IQuote, NextPageWithLayout } from "@types";
+import type { NextPageWithLayout } from "@types";
 import QuoteCard from "@components/QuoteCard";
 import { getQuotes } from "@lib/ssg";
 

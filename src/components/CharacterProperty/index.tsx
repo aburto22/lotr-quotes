@@ -1,6 +1,6 @@
 interface CharacterPropertyProps {
   label: string;
-  prop: string | undefined;
+  prop: string | null;
 }
 
 const CharacterProperty = ({ label, prop }: CharacterPropertyProps) => {

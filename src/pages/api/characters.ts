@@ -1,8 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
-import type { ICharacter } from "@types";
 
 type Data = {
-  data: any;
+  data: unknown;
 };
 
 const handler = async (req: NextApiRequest, res: NextApiResponse<Data>) => {

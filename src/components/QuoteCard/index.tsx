@@ -71,9 +71,7 @@ const QuoteCard = ({ quote }: QuoteCardProps) => {
       <div>
         <h2>{quote.dialog}</h2>
         <p>{quote.characterName}</p>
-        <Link href={`/characters/${quote.character}`} passHref>
-          <a href="dummy">character info...</a>
-        </Link>
+        <Link href={`/characters/${quote.character}`}>character info...</Link>
       </div>
       <button type="button" onClick={handleClick} aria-label="toggle favourite">
         <HearthIcon isFavourite={isFavourite} />

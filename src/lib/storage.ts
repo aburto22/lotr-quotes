@@ -12,6 +12,7 @@ export const readFromStorage = () => {
     const favourites: string[] = JSON.parse(favouritesSaved);
     return favourites;
   } catch (err) {
+    console.error(err);
     return [];
   }
 };
