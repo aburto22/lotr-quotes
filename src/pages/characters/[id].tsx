@@ -176,7 +176,11 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
       >
         See quotes
       </Link>
-      {character.wikiUrl && <a href={character.wikiUrl}>Visit wikipedia</a>}
+      {character.wikiUrl && (
+        <a href={character.wikiUrl} className={className}>
+          Visit wikipedia
+        </a>
+      )}
       <button onClick={handleClick} type="button">
         Go back...
       </button>
