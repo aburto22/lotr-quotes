@@ -6,7 +6,7 @@ import type {
 import type { ParsedUrlQuery } from "querystring";
 import { colors } from "@styles/cssVariables";
 import Layout from "@components/Layout";
-import Image from "next/legacy/image";
+import Image from "next/image";
 import Link from "next/link";
 import { getCharacterById, getCharactersId, getWikiImg } from "@lib/ssg";
 import type { Character } from "@lib/ssg";
@@ -157,8 +157,11 @@ const CharacterPage: NextPageWithLayout<CharacterPageProps> = ({
           <Image
             src={character.image}
             alt={character.name}
-            layout="fill"
-            objectFit="contain"
+            fill
+            sizes="100vw"
+            style={{
+              objectFit: "contain",
+            }}
           />
         </div>
       )}
